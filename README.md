@@ -15,7 +15,7 @@
 
 #### PHP
 
-* [Day1 - PHP｜初始PHP](./Day1/index.md)
+* [Day1 - PHP｜初识PHP与第一个Hello world！](./Day1/index.md)
 * [Day2 - PHP｜基础语法、数据类型](./Day2/index.md)
 * [Day3 - PHP｜条件控制、循环语句](./Day3/index.md)
 * [Day4 - PHP｜函数、作用域](./Day4/index.md)

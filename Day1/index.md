@@ -1,4 +1,4 @@
-# <a id="top"></a>Day 1 - 初识 PHP
+# <a id="top"></a>Day 1 - 初识PHP与第一个Hello world！
 
 ## 什么是 PHP？
 
