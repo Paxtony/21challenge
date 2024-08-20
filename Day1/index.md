@@ -51,12 +51,16 @@ PHP，全称 **Hypertext Preprocessor**（超文本预处理器），是一种�
     <?php
         echo 'Hello, World!';
 4. **Hello world**
-    配置好 Nginx 监听 8001 端口后，在浏览器中访问 http://localhost:8001，Nginx 会请求根目录下的 index.php 文件，从而实现第一个 PHP “Hello World!”.
+    配置好 Nginx 监听 8001 端口后，
+    在浏览器中访问 http://localhost:8001，
+    Nginx 会请求根目录下的 index.php 文件，
+    从而实现第一个 PHP “Hello World!”.
     ![hello-world](img/image.png)
     
 ## 变量声明
 
-**在 PHP 中，变量是赋值后创建的，不需要事先声明类型。这是 PHP 动态类型的一个重要特性。**
+**在 PHP 中，变量是赋值后创建的，不需要事先声明类型。
+这是 PHP 动态类型的一个重要特性。**
 
 1. **基本格式**：使用 **$** 声明
     ```php
