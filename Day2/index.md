@@ -80,17 +80,22 @@
         $someVar = 'Hello';
         echo $GLOBALS['someVar']; // Outputs: Hello
         ```
+        
+    > <br>**关联数组**：关联数组是一种数组类型，其中的键可以是字符串或整数，因此键值对的键不是必须是整数索引。这种数组的行为类似于字典或映射（Map）。
+    ***php的关联数组和Javascript的数组存在一定程度的区别。***
+    > **这里只解释大概的概念，有关关联数组的具体用法和解释以及与javascript的对比将在后续的文章中深入研究**
+    <br>
 
 ## 数据类型
 
-1. **[php数据类型](https://www.w3school.com.cn/php/php_datatypes.asp)**
-- **字符串**：使用单引号或双引号。
-- **整数（Integer）**：整数字面量。
-- **浮点数（Float）**：带小数点的数值。
-- **布尔值（Boolean）**：true 或 false。
-- **数组**：用 array() 或 [] 表示。
-- **对象**：用类定义。
-- **NULL**：表示无值。
+**[php数据类型](https://www.w3school.com.cn/php/php_datatypes.asp)**
+   - **字符串**：使用单引号或双引号。
+   - **整数（Integer）**：整数字面量。
+   - **浮点数（Float）**：带小数点的数值。
+   - **布尔值（Boolean）**：true 或 false。
+   - **数组**：用 array() 或 [] 表示。
+   - **对象**：用类定义。
+   - **NULL**：表示无值。
 
 
 
