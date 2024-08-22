@@ -1,0 +1,4 @@
+<script language='php'>
+    <?
+    ?>
+</script>
