@@ -18,8 +18,8 @@
 * [Day1 - PHP｜初识PHP与第一个Hello world！](./Day1/index.md)
 * [Day2 - PHP｜基础语法、数据类型](./Day2/index.md)
 * [Day3 - PHP｜条件控制、循环语句](./Day3/index.md)
-* [Day4 - PHP｜函数、作用域](./Day4/index.md)
-* [Day5 - PHP｜字符串、数组](./Day5/index.md)
+* [Day4 - PHP｜字符串、数组、运算符](./Day4/index.md)
+* [Day5 - PHP｜输出、函数、作用域](./Day5/index.md)
 * [Day6 - PHP｜总结、复习](./Day6/index.md)
   
 #### Wordpress
@@ -33,4 +33,3 @@
 * [Day13 - Wordpress｜总结、复习](./Day1.md)
   
   
-[PHP参考手册](https://www.cainiaoya.com/php/php-jiaocheng.html)
