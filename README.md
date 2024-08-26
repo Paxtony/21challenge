@@ -24,7 +24,7 @@
   
 #### Wordpress
 
-* [Day7 - Wordpress｜核心架构](./Day1.md)
+* [Day7 - Wordpress｜第一个Wordpress](./Day1.md)
 * [Day8 - Wordpress｜数据库交互](./Day1.md)
 * [Day9 - Wordpress｜Action、Filter](./Day1.md)
 * [Day10 - Wordpress｜自定义内容类型](./Day1.md)
