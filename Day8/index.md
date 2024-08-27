@@ -10,6 +10,8 @@ Day7 已经成功打开了第一个wordpress项目，今天学习wordpress的数
 
 1. **wp_posts**: 网站数据，如文章、页面、附件和自定义文章类型
 @import "code/wp_posts.csv"
+|123|12|123
+|123|123|123
 1. **wp_postmeta**: 文章相关联的元数据，如自定义字段
 @import "code/wp_postmeta.csv"
 1. **wp_terms**: 所有分类法中的项目，比如分类和标签
