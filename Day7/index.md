@@ -49,6 +49,7 @@ WordPress 拥有一个庞大而活跃的用户和开发者社区，提供支持�
    - 安装`mysql-8.0.32`，**将mysql容器3306端口映射道本地端口3306**
    ```docker
    docker run --name mysql-8.0.32 \
+      --restart always \
       -e MYSQL_ALLOW_EMPTY_PASSWORD=yes \
       -p 3306:3306 \
       -v ~/docker/mysql:/var/lib/mysql \
