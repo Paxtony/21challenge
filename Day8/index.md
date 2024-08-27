@@ -99,7 +99,8 @@ global $wpdb;
         echo $post->post_title;
     }
    ```
-7. `$wpdb->prefix`: 获取当前的表前缀
+7. `$wpdb->prefix`: 获取当前的表前缀，一般在wp-config.php统一配置`$table_prefix = 'wp_';`
+   
 8. 通过`$wpdb->options`直接获取当前表，无需通过`$wpdb->prefix`拼接
    ```php
    $wpdb->options 等同于 wp_options
