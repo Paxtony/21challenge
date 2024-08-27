@@ -13,39 +13,57 @@ Day7 已经成功打开了第一个wordpress项目，今天学习wordpress的数
 | ID       | post_author | post_title   | post_content | post_status | post_type |
 |----------|-------------|--------------|--------------|-------------|-----------|
 | 文章 ID  | 作者 ID     | 文章标题     | 文章内容     | 状态        | 类型      |
-1. **wp_postmeta**: 文章相关联的元数据，如自定义字段
+
+2. **wp_postmeta**: 文章相关联的元数据，如自定义字段
+
 | post_id                  | meta_key       | meta_value  |
 |--------------------------|----------------|-------------|
 | 链接到 wp_posts 的 ID    | 元字段名称     | 元字段值    |
-1. **wp_terms**: 所有分类法中的项目，比如分类和标签
+
+3. **wp_terms**: 所有分类法中的项目，比如分类和标签
+
 | term_id   | name       | slug      |
 |-----------|------------|-----------|
 | 分类项 ID | 项目名称   | 项目URL的key |
-1. **wp_term_taxonomy**: 描述类目的组织方式，定义是分类还是标签
+
+4. **wp_term_taxonomy**: 描述类目的组织方式，定义是分类还是标签
+
 | term_taxonomy_id | term_id               | taxonomy                          |
 |------------------|-----------------------|-----------------------------------|
 | 唯一标识         | 链接到 wp_terms 的 ID | 分类法名称（如 category, post_tag） |
-1. **wp_term_relationships**: 关联文章ID和分类法项目ID
+
+5. **wp_term_relationships**: 关联文章ID和分类法项目ID
+
 | object_id | term_taxonomy_id             |
 |-----------|------------------------------|
 | 文章 ID   | 链接到 wp_term_taxonomy 的 ID |
-1. **wp_users**: 存储网站用户信息
+
+6. **wp_users**: 存储网站用户信息
+
 | ID     | user_login | user_pass        | user_email         |
 |--------|------------|------------------|--------------------|
 | 用户ID | 登录名     | 密码（hash 储存) | 电子邮件地址        |
-1. **wp_usermeta**: 存储与用户相关的元数据
+
+7. **wp_usermeta**: 存储与用户相关的元数据
+
 | user_id               | meta_key      | meta_value   |
 |-----------------------|---------------|--------------|
 | 链接到 wp_users 的 ID | 元字段名称    | 元字段值     |
-1. **wp_options**: 站点的各种全局配置和选项
+
+8. **wp_options**: 站点的各种全局配置和选项
+
 | option_id | option_name | option_value |
 |-----------|-------------|--------------|
 | 选项 ID   | 选项名称    | 选项值       |
-1. **wp_comments**: 评论
+
+9. **wp_comments**: 评论
+
 | comment_ID | comment_post_ID | comment_author | comment_content |
 |------------|-----------------|----------------|-----------------|
 | 评论 ID    | 关联文章 ID     | 评论作者       | 评论内容        |
-1.  **wp_commentmeta**: 与评论相关的元数据
+
+10.  **wp_commentmeta**: 与评论相关的元数据
+
 | comment_id             | meta_key      | meta_value   |
 |------------------------|---------------|--------------|
 | 链接到 wp_comments 的 ID | 元字段名称    | 元字段值     |
