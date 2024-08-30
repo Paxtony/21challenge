@@ -1,4 +1,4 @@
-# Day  10- Wordpress｜REST API
+# Day  11 - Wordpress｜REST API
 
 ## REST API
 WordPress REST API 是一个强大的功能，它允许开发者通过 JSON 格式访问和操作 WordPress 网站的数据。
