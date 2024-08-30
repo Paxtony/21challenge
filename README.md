@@ -27,8 +27,8 @@
 * [Day7 - Wordpress｜第一个Wordpress](./Day7/index.md)
 * [Day8 - Wordpress｜数据库交互](./Day8/index.md)
 * [Day9 - Wordpress｜Action、Filter](./Day9/index.md)
-* [Day10 - Wordpress｜自定义内容类型](./Day1.md)
-* [Day11 - Wordpress｜自定义应用主题](./Day1.md)
+* [Day10 - Wordpress｜记录](./Day10/index.md)
+* [Day11 - Wordpress｜REST API](./Day11/index.md)
 * [Day12 - Wordpress｜自定义插件开发](./Day1.md)
 * [Day13 - Wordpress｜总结、复习](./Day1.md)
   
