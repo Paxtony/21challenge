@@ -29,7 +29,7 @@
 * [Day9 - Wordpress｜Action、Filter](./Day9/index.md)
 * [Day10 - Wordpress｜踩坑记录](./Day10/index.md)
 * [Day11 - Wordpress｜REST API](./Day11/index.md)
-* [Day12 - Wordpress｜自定义插件开发](./Day1.md)
+* [Day12 - SQL](./Day1.md)
 * [Day13 - Wordpress｜总结、复习](./Day1.md)
   
   
