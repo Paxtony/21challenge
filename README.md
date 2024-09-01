@@ -24,12 +24,12 @@
   
 #### Wordpress
 
-* [Day7 - Wordpress｜第一个Wordpress](./Day7/index.md)
-* [Day8 - Wordpress｜数据库交互](./Day8/index.md)
-* [Day9 - Wordpress｜Action、Filter](./Day9/index.md)
-* [Day10 - Wordpress｜踩坑记录](./Day10/index.md)
-* [Day11 - Wordpress｜REST API](./Day11/index.md)
-* [Day12 - SQL](./Day12/index.md)
-* [Day13 - Wordpress｜总结、复习](./Day1.md)
+  * [Day7 - Wordpress｜第一个Wordpress](./Day7/index.md)
+  * [Day8 - Wordpress｜数据库交互](./Day8/index.md)
+  * [Day9 - Wordpress｜Action、Filter](./Day9/index.md)
+  * [Day10 - Wordpress｜踩坑记录](./Day10/index.md)
+  * [Day11 - Wordpress｜REST API](./Day11/index.md)
+  * [Day12 - SQL](./Day12/index.md)
+  * [Day13 - Wordpress｜自定义主题开发](./Day13/index.md)
   
   
