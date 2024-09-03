@@ -32,5 +32,6 @@
   * [Day12 - SQL](./Day12/index.md)
   * [Day13 - Wordpress｜自定义主题开发](./Day13/index.md)
   * [Day14 - Wordpress｜自定义插件开发](./Day14/index.md)
+  * [Day15 - Wordpress｜魔改srcset](./Day15/index.md)
   
   
