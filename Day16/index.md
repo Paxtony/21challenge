@@ -16,8 +16,10 @@
 ![alt text](image-8.png)
 7. 点击查看文章
 <br>
+
 ![alt text](image-9.png)
 ![alt text](image-10.png)
 ![alt text](image-11.png)
+
 <br>
 页面的path通过`en` `zh-tw` `zh-hk`等不同地区语言代号区分开了
