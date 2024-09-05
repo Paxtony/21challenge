@@ -1,0 +1,583 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-23 03:13:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/app-widgets/active-lockouts.php:13
+msgid "Reload"
+msgstr "刷新"
+
+#: views/tab-settings.php:330
+msgid "Edit"
+msgstr "编辑"
+
+#: views/app-widgets/acl-rules.php:14 views/app-widgets/acl-rules.php:63
+msgid "Documentation"
+msgstr "说明文档"
+
+#. Description of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "Block excessive login attempts and protect your site against brute force attacks. Simple, yet powerful tools to improve site performance."
+msgstr "阻止过多的登录尝试，保护您的网站免受暴力攻击。简单而强大的工具，提高网站性能。"
+
+#: views/tab-settings.php:639
+msgid "Hide Dashboard Widget"
+msgstr "隐藏仪表板小工具"
+
+#: views/app-widgets/event-log.php:24
+msgid "All attempts blocked by access rules are hidden by default. You can see the full log at this link."
+msgstr "默认情况下，所有被访问规则阻止的尝试都是隐藏的。您可以在此链接中查看完整日志。"
+
+#: views/app-widgets/event-log.php:19
+msgid "Full Logs"
+msgstr "完整日志"
+
+#: views/tab-settings.php:540
+msgid "You can use a shortcode here to insert links, for example, a link to your Privacy Policy page. <br>The shortcode is: [llar-link url=\"https://example.com\" text=\"Privacy Policy\"]"
+msgstr "您可以在此处使用短代码插入链接，例如，指向您的隐私政策页面的链接。<br>简码是：[llar-link url=\"https://example.com\" text=\"隐私政策\"]"
+
+#: views/app-widgets/country-access-rules.php:22
+msgid "these countries:"
+msgstr "这些国家："
+
+#: views/app-widgets/country-access-rules.php:14
+msgid "Country Access Rules"
+msgstr "国家访问规则"
+
+#: views/tab-settings.php:525
+msgid "GDPR message"
+msgstr "GDPR消息"
+
+#: core/Config.php:96
+msgid "By proceeding you understand and give your consent that your IP address and browser information might be processed by the security plugins installed on this site."
+msgstr "继续操作即表示您理解并同意您的 IP 地址和浏览器信息可能会被安装在本网站上的安全插件处理。"
+
+#: views/chart-circle-failed-attempts-today.php:102
+#: views/chart-failed-attempts.php:36 views/chart-failed-attempts.php:121
+#: views/chart-failed-attempts.php:131
+msgid "Failed Login Attempts"
+msgstr "失败的登录尝试"
+
+#: views/chart-circle-failed-attempts-today.php:93
+msgid "Failed Login Attempts Today"
+msgstr "今天的失败登录尝试"
+
+#: views/tab-dashboard.php:147
+msgid "Many options such as notifications, alerts, premium status, and more."
+msgstr "许多选项，如通知、警报、高级状态等。"
+
+#: views/tab-dashboard.php:143
+msgid "Global Options"
+msgstr "全局选项"
+
+#: views/tab-dashboard.php:132
+msgid "Find the documentation and help you need."
+msgstr "查找您需要的文档和帮助。"
+
+#: core/LimitLoginAttempts.php:738 views/options-page.php:155
+#: views/tab-dashboard.php:128
+msgid "Help"
+msgstr "帮助"
+
+#: views/tab-dashboard.php:117
+msgid "View lockouts logs, block or whitelist usernames or IPs, and more."
+msgstr "查看锁定日志、锁定或白名单用户名、IP等。"
+
+#: views/tab-dashboard.php:113
+msgid "Tools"
+msgstr "工具"
+
+#: views/tab-dashboard.php:67 views/tab-settings.php:95
+msgid "Learn More"
+msgstr "了解更多"
+
+#: views/onboarding-popup.php:41
+msgid "Notifications"
+msgstr "通知"
+
+#: core/LimitLoginAttempts.php:361 views/tab-dashboard.php:97
+#: views/tab-dashboard.php:253
+msgid "Upgrade to Premium"
+msgstr "升级到高级版"
+
+#: views/tab-dashboard.php:87
+msgid "As a free user, your local server is absorbing the traffic brought on by brute force attacks, potentially slowing down your website. Upgrade to Premium today to outsource these attacks through our cloud app, and slow down future attacks with advanced throttling."
+msgstr "作为免费用户，您的本地服务器正在吸收暴力攻击带来的流量，这可能会减慢您的网站速度。立即升级到高级版，以通过我们的云应用程序将这些攻击外包，并通过高级限制功能减慢将来的攻击速度。"
+
+#: views/tab-dashboard.php:83
+msgid "Premium Protection Disabled"
+msgstr "高级保护已禁用"
+
+#: views/tab-logs-local.php:88
+msgid "Safelist"
+msgstr "安全列表"
+
+#: resources/compare-plans-data.php:72
+msgid "Performance Optimizer"
+msgstr "性能优化器"
+
+#: views/app-widgets/active-lockouts.php:8
+msgid "Active Lockouts"
+msgstr "活动锁定"
+
+#: views/chart-failed-attempts.php:44 views/chart-failed-attempts.php:147
+#: views/chart-failed-attempts.php:244
+msgid "Requests"
+msgstr "请求"
+
+#: views/tab-settings.php:312 views/tab-settings.php:317
+msgid "Setup Code"
+msgstr "设置代码"
+
+#: views/chart-circle-failed-attempts-today.php:45
+#: views/chart-circle-failed-attempts-today.php:79
+msgid "%d failed login attempt "
+msgid_plural "%d failed login attempts "
+msgstr[0] "%d次失败的登录尝试 "
+
+#: core/LimitLoginAttempts.php:2163
+msgid "Don't show this message again"
+msgstr "不再显示此消息"
+
+#: core/LimitLoginAttempts.php:2162
+msgid "Remind me a month from now"
+msgstr "一个月后提醒我"
+
+#: core/LimitLoginAttempts.php:2161
+msgid "Yes, turn on email notifications"
+msgstr "是的，打开电子邮件通知"
+
+#: core/LimitLoginAttempts.php:2156
+msgid "You have been upgraded to the latest version of <strong>Limit Login Attempts Reloaded</strong>.<br> Due to increased security threats around the holidays, we recommend turning on email notifications when you receive a failed login attempt."
+msgstr "您已升级到 <strong>Limit Login Attempts Reloaded</strong>最新版本。<br>由于假期前后安全威胁增加，我们建议您在收到失败的登录尝试时打开电子邮件通知。"
+
+#: resources/compare-plans-data.php:136 views/tab-help.php:173
+msgid "Premium Support"
+msgstr "高级支持"
+
+#: views/options-page.php:164
+msgid "Failover"
+msgstr "故障切换"
+
+#: core/LimitLoginAttempts.php:728 views/options-page.php:145
+msgid "Logs"
+msgstr "日志"
+
+#: views/tab-settings.php:351
+msgid "Configuration"
+msgstr "配置"
+
+#: views/tab-settings.php:282 views/tab-settings.php:448
+msgid "Run auto backups of access control lists, lockouts and logs"
+msgstr "运行访问控制列表、封锁和日志的自动备份"
+
+#: views/tab-settings.php:275 views/tab-settings.php:442
+msgid "Get premium support"
+msgstr "获得高级支持"
+
+#: views/tab-settings.php:268 views/tab-settings.php:436
+msgid "Sync the allow/deny/pass lists between multiple domains"
+msgstr "在多个域之间同步允许/拒绝/通过列表"
+
+#: views/tab-settings.php:255 views/tab-settings.php:424
+msgid "Absorb site load caused by attacks"
+msgstr "吸收攻击造成的站点负载"
+
+#: views/tab-settings.php:249 views/tab-settings.php:404
+msgid "Why Use Our Premium Cloud App?"
+msgstr "为什么要使用我们的高级云应用？"
+
+#: views/tab-settings.php:339
+msgid "Submit"
+msgstr "确定"
+
+#: views/tab-settings.php:143
+msgid "Local App"
+msgstr "本地应用"
+
+#: views/tab-settings.php:64
+msgid "App Settings"
+msgstr "设置"
+
+#: views/tab-settings.php:107
+msgid "Active App"
+msgstr "活动应用"
+
+#: views/app-widgets/acl-rules.php:59
+msgid "IP Access Rules"
+msgstr "IP 访问规则"
+
+#: views/app-widgets/acl-rules.php:10
+msgid "Login Access Rules"
+msgstr "登录访问规则"
+
+#: views/app-widgets/event-log.php:14
+msgid "Event Log"
+msgstr "活动日志"
+
+#: core/CloudApp.php:132
+msgid "The endpoint is not responding. Please contact your app provider to settle that."
+msgstr "终点没有响应。请联系您的应用程序提供商解决该问题。"
+
+#: core/Ajax.php:779
+msgid "No rules yet."
+msgstr "尚无规则。"
+
+#: views/app-widgets/acl-rules.php:44 views/app-widgets/acl-rules.php:93
+#: views/app-widgets/country-access-rules.php:26
+msgid "Add"
+msgstr "添加"
+
+#: views/app-widgets/acl-rules.php:39 views/app-widgets/acl-rules.php:88
+msgid "Pass"
+msgstr "通过"
+
+#: views/app-widgets/acl-rules.php:38 views/app-widgets/acl-rules.php:87
+msgid "Allow"
+msgstr "允许"
+
+#: views/app-widgets/acl-rules.php:37 views/app-widgets/acl-rules.php:86
+#: views/app-widgets/country-access-rules.php:55
+msgid "Deny"
+msgstr "拒绝"
+
+#: views/app-widgets/acl-rules.php:26 views/app-widgets/acl-rules.php:75
+msgid "Action"
+msgstr "操作"
+
+#: core/Ajax.php:728
+msgid "Meanwhile, the app falls over to the <a href=\"%s\">default functionality</a>."
+msgstr "同时，该应用程序属于 <a href=\"%s\">默认功能</a>。"
+
+#: core/Ajax.php:711
+msgid "No lockouts yet."
+msgstr "尚无锁定。"
+
+#: views/app-widgets/active-lockouts.php:25
+msgid "Expires in (minutes)"
+msgstr "在（分钟）内过期"
+
+#: views/app-widgets/active-lockouts.php:24
+msgid "Count"
+msgstr "数量"
+
+#: core/Ajax.php:359 core/Ajax.php:662
+msgid "No events yet."
+msgstr "尚无事件。"
+
+#: views/app-widgets/event-log.php:46
+msgid "Actions"
+msgstr "操作"
+
+#: views/app-widgets/event-log.php:45
+msgid "Lockout Duration"
+msgstr "锁定持续时间"
+
+#: views/app-widgets/event-log.php:44
+msgid "Attempts Left"
+msgstr "登录尝试"
+
+#: views/app-widgets/acl-rules.php:24 views/app-widgets/acl-rules.php:33
+#: views/app-widgets/acl-rules.php:73 views/app-widgets/acl-rules.php:82
+#: views/app-widgets/event-log.php:43
+msgid "Pattern"
+msgstr "模式"
+
+#: views/app-widgets/event-log.php:42
+msgid "Reason"
+msgstr "原因"
+
+#: views/app-widgets/acl-rules.php:25 views/app-widgets/acl-rules.php:74
+#: views/app-widgets/event-log.php:41
+msgid "Rule"
+msgstr "规则"
+
+#: views/app-widgets/active-lockouts.php:23 views/app-widgets/event-log.php:40
+#: views/app-widgets/login-attempts.php:50
+msgid "Login"
+msgstr "登录"
+
+#: views/app-widgets/active-lockouts.php:22 views/app-widgets/event-log.php:38
+#: views/app-widgets/login-attempts.php:51
+msgid "IP"
+msgstr "IP"
+
+#: views/app-widgets/event-log.php:37 views/app-widgets/login-attempts.php:49
+msgid "Time"
+msgstr "时间"
+
+#: core/Ajax.php:175
+msgid "Please specify the Setup Code"
+msgstr "请输入设置代码"
+
+#: core/CloudApp.php:157
+msgid "The app has been successfully imported."
+msgstr "应用程序已成功导入。"
+
+#. Author URI of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "https://www.limitloginattempts.com/"
+msgstr "https://www.limitloginattempts.com/"
+
+#: core/LimitLoginAttempts.php:1837 core/LimitLoginAttempts.php:1910
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: views/tab-logs-local.php:142 views/tab-settings.php:467
+#: views/tab-settings.php:807
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: views/tab-settings.php:473
+msgid "General Settings"
+msgstr "常规设置"
+
+#: core/LimitLoginAttempts.php:343 core/LimitLoginAttempts.php:712
+#: views/options-page.php:129
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: views/tab-settings.php:67
+msgid "The app absorbs the main load caused by brute-force attacks, analyzes login attempts, and blocks unwanted visitors. It provides other service functions as well."
+msgstr "该应用吸收由暴力攻击造成的主要负载，分析登录尝试，并阻止不需要的访问者。它还提供其他服务功能。"
+
+#: core/LimitLoginAttempts.php:2069
+msgid "Maybe later"
+msgstr "稍后再说"
+
+#: core/LimitLoginAttempts.php:2070
+msgid "Leave a review"
+msgstr "留下评论"
+
+#: core/LimitLoginAttempts.php:2068
+msgid "Don't show again"
+msgstr "请勿再次显示"
+
+#: core/LimitLoginAttempts.php:2065
+msgid "We would really like to hear your feedback about the plugin! Please take a couple minutes to write a few words <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">here</a>. Thank you!"
+msgstr "我们真的很想听听您对插件的反馈！ 请花几分钟写几句话在<a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">此处</a>。 谢谢！"
+
+#: core/LimitLoginAttempts.php:2063
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "嘿 <strong>Limit Login Attempts Reloaded</strong> 用户！"
+
+#: core/LimitLoginAttempts.php:2064
+msgid "A <strong>crazy idea</strong> we wanted to share! What if we put an image from YOU on the <a href=\"https://wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\">LLAR page</a>?! (<a href=\"https://wordpress.org/plugins/hello-dolly/\" target=\"_blank\">example</a>) A drawing made by you or your child would cheer people up! Send us your drawing by <a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">email</a> and we like it, we'll add it in the next release. Let's have some fun!"
+msgstr "我们有一个 <strong>疯狂的主意</strong> 想分享！如果我们把你的图像放在 <a href=\"https://wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\">LLAR页面</a>上呢？！（<a href=\"https://wordpress.org/plugins/hello-dolly/\" target=\"_blank\">示例</a>）你或你的孩子画的画会让人们高兴起来！通过 <a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">电子邮件</a> 向我们发送您的作品，我们喜欢它，我们将在下一个版本中添加它。让我们玩得开心！"
+
+#: views/tab-debug.php:65
+msgid "Copy the contents of the window and provide to support."
+msgstr "复制窗口的内容并提供支持。"
+
+#: core/LimitLoginAttempts.php:344 core/LimitLoginAttempts.php:717
+#: views/options-page.php:133
+msgid "Settings"
+msgstr "设置"
+
+#: core/LimitLoginAttempts.php:733 views/options-page.php:151
+msgid "Debug"
+msgstr "调试"
+
+#: views/tab-settings.php:240
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr "按优先级顺序指定您信任的来源，以逗号分隔。我们强烈建议您<b>请勿</b>使用REMOTE_ADDR以外的其他任何东西，因为其他来源很容易被伪造。示例：HTTP_X_FORWARDED_FOR，HTTP_CF_CONNECTING_IP，HTTP_X_SUCURI_CLIENTIP"
+
+#: views/tab-settings.php:225
+msgid "Trusted IP Origins"
+msgstr "可信的IP来源"
+
+#: views/tab-settings.php:559 views/tab-settings.php:583
+msgid "Email to"
+msgstr "发邮件给"
+
+#: views/tab-settings.php:586
+msgid "after"
+msgstr "后"
+
+#: core/LimitLoginAttempts.php:1545
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>错误</strong>：错误的电子邮件地址或密码。"
+
+#: views/tab-settings.php:514
+msgid "GDPR compliance"
+msgstr "GDPR合规性"
+
+#: views/tab-logs-local.php:93 views/tab-logs-local.php:116
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "每行一个IP或IP范围（1.2.3.4-5.6.7.8）"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: limit-login-attempts-reloaded.php core/LimitLoginAttempts.php:169
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: core/LimitLoginAttempts.php:1223
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d 分钟"
+
+#: core/LimitLoginAttempts.php:1216
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d 小时"
+
+#: core/Ajax.php:991
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "剩余 <strong>%d</strong> 次尝试。"
+
+#: views/tab-logs-local.php:101 views/tab-logs-local.php:124
+msgid "One Username per line"
+msgstr "每行一个用户名"
+
+#: views/tab-logs-local.php:50
+msgid "Reset Counter"
+msgstr "重置计数器"
+
+#: core/LimitLoginAttempts.php:1758
+msgid "Reset lockout count"
+msgstr "重置锁定计数"
+
+#: core/LimitLoginAttempts.php:1564
+msgid "WC Error"
+msgstr "WC 错误"
+
+#: views/tab-settings.php:490
+msgid "Use global settings"
+msgstr "使用全局设置"
+
+#: views/tab-logs-local.php:219
+msgid "Tried to log in as"
+msgstr "试图登录用户"
+
+#: views/tab-logs-local.php:45
+msgid "Total lockouts"
+msgstr "拦截合计"
+
+#: views/tab-logs-local.php:35
+msgid "Statistics"
+msgstr "统计"
+
+#: views/tab-logs-local.php:68
+msgid "Restore Lockouts"
+msgstr "恢复拦截"
+
+#: core/LimitLoginAttempts.php:1499
+msgid "Please try again later."
+msgstr "请稍后再试。"
+
+#: core/LimitLoginAttempts.php:511 core/LimitLoginAttempts.php:1032
+#: core/LimitLoginAttempts.php:1511
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "%d 分钟请再试一次。"
+
+#: core/LimitLoginAttempts.php:509 core/LimitLoginAttempts.php:1030
+#: core/LimitLoginAttempts.php:1508
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "%d 小时后请再试一次。"
+
+#: views/tab-settings.php:571
+msgid "Notify on lockout"
+msgstr "拦截时通知"
+
+#: views/tab-logs-local.php:57
+msgid "No lockouts yet"
+msgstr "还没有拦截"
+
+#: views/tab-settings.php:174
+msgid "minutes lockout"
+msgstr "分钟拦截"
+
+#: views/tab-settings.php:186
+msgid "lockouts increase lockout time to"
+msgstr "拦截增加锁定时间"
+
+#: views/tab-settings.php:589
+msgid "lockouts"
+msgstr "拦截"
+
+#: views/tab-logs-local.php:194
+msgid "Lockout log"
+msgstr "拦截日志"
+
+#: views/tab-settings.php:147
+msgid "Lockout"
+msgstr "拦截"
+
+#: views/tab-settings.php:484
+msgid "Let network sites use their own settings"
+msgstr "让网站使用自己的设置"
+
+#: views/tab-logs-local.php:218
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP"
+
+#: views/tab-settings.php:485
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "如果禁用，全局设置将强制应用到整个网络。"
+
+#: views/tab-settings.php:203
+msgid "hours until retries are reset"
+msgstr "小时, 直到重试复位"
+
+#: views/tab-settings.php:190
+msgid "hours"
+msgstr "小时"
+
+#: views/app-widgets/event-log.php:39 views/tab-logs-local.php:220
+msgid "Gateway"
+msgstr "网关"
+
+#: views/tab-logs-local.php:217
+msgid "Date"
+msgstr "日期"
+
+#: core/LimitLoginAttempts.php:1751
+msgid "Cleared IP log"
+msgstr "清除 IP 日志"
+
+#: core/LimitLoginAttempts.php:1765
+msgid "Cleared current lockouts"
+msgstr "清除当前拦截"
+
+#: views/tab-logs-local.php:202
+msgid "Clear Log"
+msgstr "清除日志"
+
+#: views/tab-settings.php:161
+msgid "allowed retries"
+msgstr "允许重试"
+
+#: views/tab-logs-local.php:64
+msgid "Active lockouts"
+msgstr "活跃拦截"
+
+#: core/LimitLoginAttempts.php:502 core/LimitLoginAttempts.php:1023
+#: core/LimitLoginAttempts.php:1491
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>错误</strong>: 太多的失败的登录尝试。"
+
+#: core/LimitLoginAttempts.php:1548
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>错误</strong>: 不正确的用户名或密码。"
+
+#: views/tab-logs-local.php:53
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "%d 次拦截自上次复位后"
+
+#: views/tab-logs-local.php:71
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "%d IP 目前阻止试图登录"

@@ -34,5 +34,6 @@
   * [Day14 - Wordpress｜自定义插件开发](./Day14/index.md)
   * [Day15 - Wordpress｜魔改srcset](./Day15/index.md)
   * [Day16 - Wordpress｜polylang](./Day16/index.md)
+  * [Day17 - Wordpress｜安全性优化](./Day17/index.md)
   
   

@@ -1,0 +1,286 @@
+# Translation of Plugins - Two-Factor - Stable (latest release) in Chinese (Hong Kong)
+# This file is distributed under the same license as the Plugins - Two-Factor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-17 16:16:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Plugins - Two-Factor - Stable (latest release)\n"
+
+#: providers/class-two-factor-fido-u2f-admin.php:111
+msgid "FIDO U2F appears to be not supported by your web browser. Try using Google Chrome or Firefox."
+msgstr "目前使用的瀏覽器不支援 FIDO U2F 安全金鑰，請改用 Google Chrome 或 Firefox。"
+
+#. Author URI of the plugin
+#: two-factor.php
+msgid "https://github.com/wordpress/two-factor/graphs/contributors"
+msgstr "https://github.com/wordpress/two-factor/graphs/contributors"
+
+#. Author of the plugin
+#: two-factor.php
+msgid "Plugin Contributors"
+msgstr "外掛貢獻者"
+
+#: class-two-factor-core.php:603
+msgid "Error: API login for user disabled."
+msgstr "錯誤: 使用者的 API 登入已停用。"
+
+#. Plugin URI of the plugin
+#: two-factor.php
+msgid "https://wordpress.org/plugins/two-factor/"
+msgstr "https://wordpress.org/plugins/two-factor/"
+
+#: providers/class-two-factor-totp.php:178
+msgid "Invalid Two Factor Authentication secret key."
+msgstr "無效的兩步驟驗證秘密金鑰。"
+
+#: providers/class-two-factor-totp.php:182
+msgid "Invalid Two Factor Authentication code."
+msgstr "無效的兩步驟驗證碼。"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name.
+#: includes/function.login-header.php:53
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: providers/class-two-factor-email.php:271
+msgid "Resend Code"
+msgstr "重新傳送驗證碼"
+
+#: class-two-factor-core.php:675 class-two-factor-core.php:1276
+msgid "Failed to create a login nonce."
+msgstr "無法建立登入階段。"
+
+#: providers/class-two-factor-fido-u2f.php:237
+msgid "Requires an HTTPS connection. Configure your security keys in the \"Security Keys\" section below."
+msgstr "需要HTTPS連線。在下面的“安全金鑰”部分配置您的安全金鑰。"
+
+#: providers/class-two-factor-fido-u2f.php:154
+msgid "U2F requires an HTTPS connection. Please use an alternative 2nd factor method."
+msgstr "U2F必需HTTPS連線。請使用另外的第二因素方式。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:197
+msgctxt "security key"
+msgid "Register New Key"
+msgstr "註冊新安全金鑰"
+
+#: providers/class-two-factor-fido-u2f-admin.php:190
+msgid "U2F requires an HTTPS connection. You won't be able to add new security keys over HTTP."
+msgstr "U2F需要HTTPS連線。你無法在HTTP連線下添加安全金鑰。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:109
+msgid "U2F request timeout reached."
+msgstr "U2F 請求已逾時。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:108
+msgid "U2F device ineligible."
+msgstr "U2F 設備不合規格。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:107
+msgid "Unsupported U2F configuration."
+msgstr "不支援的 U2F 設定。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:106
+msgid "Bad U2F request."
+msgstr "無效的U2F請求。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:105
+msgid "Other U2F error."
+msgstr "其他U2F錯誤。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:104
+msgid "Request OK."
+msgstr "請求OK。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:101
+msgid "U2F request failed."
+msgstr "U2F請求失敗。"
+
+#. Plugin Name of the plugin
+#: two-factor.php
+msgid "Two Factor"
+msgstr "雙因素驗證"
+
+#: providers/class-two-factor-totp.php:681
+msgid "Authenticate"
+msgstr "驗證"
+
+#: providers/class-two-factor-totp.php:186
+msgid "Unable to save Two Factor Authentication code. Please re-scan the QR code and enter the code provided by your application."
+msgstr "無法儲存雙因素驗證代碼。請重新掃描QR碼並輸入您的應用程式提供的代碼。"
+
+#: providers/class-two-factor-totp.php:338
+#: providers/class-two-factor-totp.php:668
+msgid "Authentication Code:"
+msgstr "驗證碼"
+
+#: providers/class-two-factor-totp.php:289
+msgid "Please scan the QR code or manually enter the key, then enter an authentication code from your app in order to complete setup."
+msgstr "請掃描二維碼或手動輸入密鑰，然後從您的應用程式輸入驗證碼以完成設定。"
+
+#: providers/class-two-factor-fido-u2f.php:273
+msgid "New Security Key"
+msgstr "新增安全金鑰"
+
+#: providers/class-two-factor-fido-u2f.php:166
+msgid "An error occurred while creating authentication data."
+msgstr "建立驗證數據時發生錯誤。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:354
+msgid "Item not updated."
+msgstr "項目未更新。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:317
+msgid "Delete"
+msgstr "刪除"
+
+#: providers/class-two-factor-fido-u2f-admin.php:300
+msgid "Rename"
+msgstr "重新命名"
+
+#: providers/class-two-factor-fido-u2f-admin.php:204
+msgid "Your new security key registered."
+msgstr "你的新安全金鑰已註冊。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:208
+msgid "You can find FIDO U2F Security Key devices for sale from here."
+msgstr "你可以在這裏購買FIDO U2F安全金鑰裝置。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:186
+msgid "Security Keys"
+msgstr "安全鑰匙"
+
+#: providers/class-two-factor-fido-u2f-admin.php:137
+msgid "Error while saving the changes."
+msgstr "儲存變更時發生錯誤。"
+
+#: providers/class-two-factor-fido-u2f-admin.php:100
+#: providers/class-two-factor-fido-u2f.php:182
+msgid "Now insert (and tap) your Security Key."
+msgstr "現在插入 (並按下) 你的安全金鑰。"
+
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:148
+msgid "Update"
+msgstr "更新"
+
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:147
+msgid "Cancel"
+msgstr "取消"
+
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:34
+msgid "Last Used"
+msgstr "最近使用"
+
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:33
+msgid "Added"
+msgstr "已增加"
+
+#. translators: %s: email address
+#: providers/class-two-factor-email.php:346
+msgid "Authentication codes will be sent to %s."
+msgstr "驗證碼將會傳送至 %s。"
+
+#: providers/class-two-factor-email.php:268
+msgid "Log In"
+msgstr "登入"
+
+#: providers/class-two-factor-email.php:264
+msgid "A verification code has been sent to the email address associated with your account."
+msgstr "一個驗證碼已被傳送至閣下的帳戶的電郵地址。"
+
+#. translators: %s: token
+#: providers/class-two-factor-email.php:224
+msgid "Enter %s to log in."
+msgstr "輸入%s以登入。"
+
+#. translators: %s: site name
+#: providers/class-two-factor-email.php:222
+msgid "Your login confirmation code for %s"
+msgstr "你在%s的登入確認碼"
+
+#: providers/class-two-factor-email.php:54
+msgctxt "Provider Label"
+msgid "Email"
+msgstr "電郵"
+
+#: providers/class-two-factor-dummy.php:48
+msgid "Yup."
+msgstr "是的。"
+
+#: providers/class-two-factor-dummy.php:46
+msgid "Are you really you?"
+msgstr "真的是你嗎？"
+
+#: providers/class-two-factor-dummy.php:33
+msgctxt "Provider Label"
+msgid "Dummy Method"
+msgstr "傻瓜方式"
+
+#: providers/class-two-factor-backup-codes.php:336
+#: providers/class-two-factor-totp.php:345
+msgid "Submit"
+msgstr "提交"
+
+#: providers/class-two-factor-email.php:266
+msgid "Verification Code:"
+msgstr "驗證碼"
+
+#: providers/class-two-factor-backup-codes.php:184
+msgid "Download Codes"
+msgstr "下載備用碼"
+
+#: includes/function.login-header.php:133
+msgid "Powered by WordPress"
+msgstr "本站採用 WordPress 建置"
+
+#: includes/function.login-header.php:104
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:32
+#: providers/class-two-factor-fido-u2f-admin-list-table.php:125
+msgid "Name"
+msgstr "名稱"
+
+#: class-two-factor-core.php:1743
+msgid "Primary"
+msgstr "主要"
+
+#: class-two-factor-core.php:1742
+msgid "Enabled"
+msgstr "已啟用"
+
+#: class-two-factor-core.php:1736
+msgid "Two-Factor Options"
+msgstr "Two-Factor選項"
+
+#: class-two-factor-core.php:1679
+msgid "Disabled"
+msgstr "已停用"
+
+#: class-two-factor-core.php:1660
+msgid "Two-Factor"
+msgstr "兩步驗證"
+
+#: class-two-factor-core.php:1325
+msgid "You have logged in successfully."
+msgstr "你已成功登入。"
+
+#: class-two-factor-core.php:1498
+msgid "ERROR: Invalid verification code."
+msgstr "錯誤：無效的驗證碼。"
+
+#: class-two-factor-core.php:776 class-two-factor-core.php:1261
+#: class-two-factor-core.php:1392 class-two-factor-core.php:1453
+msgid "Cheatin&#8217; uh?"
+msgstr "出貓？吓？"
+
+#. translators: %s: version number
+#: class-two-factor-core.php:177
+msgid "FIDO U2F is not available because you are using PHP %s. (Requires 5.3 or greater)"
+msgstr "FIDO U2F不可用，因為您正在使用PHP %s。(需要5.3或以上)"

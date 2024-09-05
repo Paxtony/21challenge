@@ -1,0 +1,2710 @@
+# Translation of Plugins - Limit Login Attempts Reloaded - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Limit Login Attempts Reloaded - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-29 21:38:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Limit Login Attempts Reloaded - Stable (latest release)\n"
+
+#: views/tab-settings.php:311
+msgid "Limit Login Attempts Reloaded Cloud App"
+msgstr "Limit Login Attempts Reloaded Cloud App"
+
+#: views/app-widgets/country-access-rules.php:15
+msgid "To block all countries but your own add your country as Allow Only rule"
+msgstr "如需封鎖網站管理員所屬國家之外的全部國家，請將該國加入 [僅允許] 規則中"
+
+#: views/options-page.php:116
+msgid "Account Login"
+msgstr "帳號登入"
+
+#: views/chart-failed-attempts.php:162
+msgid "Monthly Usage: "
+msgstr "每月使用量: "
+
+#: views/app-widgets/country-access-rules.php:56
+msgid "Allow only"
+msgstr "僅允許"
+
+#: resources/compare-plans-data.php:80
+msgid "Successful Login Logs"
+msgstr "成功登入記錄"
+
+#: resources/compare-plans-data.php:75
+msgid "1k for first month%s(100 per month after)"
+msgstr "首月 1000 次要求%s(之後每個月 100 次要求)"
+
+#: resources/compare-plans-data.php:31
+msgid "Get Started (Free)"
+msgstr "開始使用 (免費)"
+
+#: views/tab-settings.php:476
+msgid "These settings are independent of the apps."
+msgstr "這些設定獨立於應用程式之外。"
+
+#: views/tab-settings.php:125
+msgid "Cloud App (Premium version)"
+msgstr "Cloud App (Premium 方案)"
+
+#: views/tab-settings.php:120
+msgid "Local (Free version)"
+msgstr "伺服器本機 (免費版本)"
+
+#: views/tab-dashboard.php:263
+msgid "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">Upgrade to our premium</a> version for advanced protection."
+msgstr "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">升級至付費方案</a>以獲得進階保護。"
+
+#: views/tab-dashboard.php:218
+msgid "Deny/Allow countries"
+msgstr "拒絕/允許國家/地區"
+
+#: views/tab-dashboard.php:207 views/tab-dashboard.php:226
+msgid "Check when done."
+msgstr "(啟用後才會檢查)"
+
+#: views/tab-dashboard.php:193
+msgid "Enable Email Notifications"
+msgstr "啟用電子郵件通知"
+
+#: views/app-widgets/login-attempts.php:93
+msgid "This feature is only available for<br><a class=\"link__style_unlink llar_turquoise\" href=\"%s\">Premium</a> and <a class=\"link__style_unlink llar_turquoise button_micro_cloud\">Micro Cloud (FREE!)</a> users."
+msgstr "這個功能僅於 <a class=\"link__style_unlink llar_turquoise\" href=\"%s\">Premium</a> 及 <a class=\"link__style_unlink llar_turquoise button_micro_cloud\">Micro Cloud (免費)</a> 方案提供。"
+
+#: views/app-widgets/login-attempts.php:91
+msgid "This feature is only available for<br><a class=\"link__style_unlink llar_turquoise\" href=\"%s\">Premium</a> users."
+msgstr "這個功能僅於 <a class=\"link__style_unlink llar_turquoise\" href=\"%s\">Premium</a> 方案提供。"
+
+#: views/app-widgets/login-attempts.php:87
+msgid "All logs are stored in the cloud to ensure malicious users are unable to delete or manipulate site login data."
+msgstr "全部記錄都會儲存於雲端，這樣便能確保惡意使用者無法刪除或操縱網站登入資料。"
+
+#: views/app-widgets/login-attempts.php:84
+msgid "View a complete history of successful logins for your WordPress account"
+msgstr "檢視完整的 WordPress 網站帳號的成功登入歷史記錄"
+
+#: views/app-widgets/login-attempts.php:52
+msgid "Role"
+msgstr "使用者角色"
+
+#: views/app-widgets/login-attempts.php:28
+msgid " View more"
+msgstr " 查看更多記錄"
+
+#: views/app-widgets/login-attempts.php:24
+#: views/app-widgets/login-attempts.php:38
+msgid "Successful Login Attempts"
+msgstr "登入嘗試成功次數"
+
+#: resources/continent.php:10
+msgid "Intercontinental"
+msgstr "跨洲"
+
+#: resources/continent.php:9
+msgid "South America"
+msgstr "南美洲"
+
+#: resources/continent.php:8
+msgid "Oceania"
+msgstr "大洋洲"
+
+#: resources/continent.php:7
+msgid "North America"
+msgstr "北美洲"
+
+#: resources/continent.php:6
+msgid "Europe"
+msgstr "歐洲"
+
+#: resources/continent.php:5
+msgid "Africa"
+msgstr "非洲"
+
+#: resources/continent.php:3
+msgid "Asia"
+msgstr "亞洲"
+
+#: resources/compare-plans-data.php:81
+msgid "Ensure the security and integrity of your website by logging your successful logins."
+msgstr "透過成功登入網站記錄確保網站的安全性及完整性。"
+
+#: core/Ajax.php:643
+msgid "Connection Type: "
+msgstr "連線類型: "
+
+#: core/Ajax.php:636
+msgid "Internet Provider: "
+msgstr "網際網路服務提供商: "
+
+#: core/Ajax.php:607
+msgid "Timezone: "
+msgstr "時區: "
+
+#: core/Ajax.php:588
+msgid "Latitude, Longitude: "
+msgstr "緯度、經度: "
+
+#: core/Ajax.php:582
+msgid "Zipcode: "
+msgstr "郵遞區號: "
+
+#: core/Ajax.php:576
+msgid "City: "
+msgstr "鄉/鎮/縣/市: "
+
+#: core/Ajax.php:570
+msgid "District: "
+msgstr "區: "
+
+#: core/Ajax.php:564
+msgid "State/Province: "
+msgstr "州/省: "
+
+#: core/Ajax.php:558
+msgid "Country: "
+msgstr "國家/地區: "
+
+#: core/Ajax.php:549
+msgid "Continent: "
+msgstr "洲: "
+
+#: core/Ajax.php:538
+msgid "Login details could not be populated due to insufficient cloud resources.<br>Please <a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">upgrade to Premium</a> to access this data."
+msgstr "由於雲端資源不足，因此無法顯示登入詳細資料。<br>請<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">升級至 Premium 方案</a>以存取這項資料。"
+
+#: core/Ajax.php:451
+msgid "Today at "
+msgstr "今天 "
+
+#: views/tab-logs-custom.php:39
+msgid "Switch to the failover to access IP management tools with the free version."
+msgstr "切換至容錯移轉以存取免費版本的 IP 位址管理工具。"
+
+#: views/tab-logs-custom.php:31
+msgid "You can <a href=\"%s\" class=\"link__style_color_inherit llar_bold\" target=\"_blank\">Upgrade to Premium</a> to increase requests."
+msgstr "網站管理員可以<a href=\"%s\" class=\"link__style_color_inherit llar_bold\" target=\"_blank\">升級至付費方案</a>以提高可使用的要求數量。"
+
+#: views/tab-logs-custom.php:26
+msgid "Your Micro Cloud plan has exhausted its requests for the month, which is required to operate the Login Firewall."
+msgstr "這個網站的 Micro Cloud 方案已達本月可用要求上限，這些要求是執行 [登入防火牆] 的必要項目。"
+
+#: views/chart-circle-failed-attempts-today.php:59
+msgid "Based on your level of brute force activity, we recommend <a class=\"llar_orange %s\">free Micro Cloud upgrade</a> to access features to reduce failed logins and improve site performance."
+msgstr "依據這個網站的暴力密碼破解活動等級，我們建議<a class=\"llar_orange %s\">使用免費的 Micro Cloud</a>以存取能減少登入失敗次數並提高網站效能的功能。"
+
+#: views/chart-circle-failed-attempts-today.php:55
+#: views/chart-circle-failed-attempts-today.php:87
+msgid "Based on your level of brute force activity, we recommend <a href=\"%s\" class=\"llar_orange\" target=\"_blank\">upgrading to premium</a> to access features to reduce failed logins and improve site performance."
+msgstr "依據這個網站的暴力密碼破解活動等級，我們建議<a href=\"%s\" class=\"llar_orange\" target=\"_blank\">升級至付費方案</a>以存取能減少登入失敗次數並提高網站效能的功能。"
+
+#: views/options-page.php:57
+msgid "You have exhausted your monthly quota of free Micro Cloud requests. The plugin has now reverted to the free version. <a href=\"%s\" class=\"link__style_color_inherit\" target=\"_blank\">Upgrade to the premium</a> version today to maintain cloud protection and advanced features."
+msgstr "這個網站已達 Micro Cloud 免費要求每月額度的上限，外掛已恢復為免費版本。請立即<a href=\"%s\" class=\"link__style_color_inherit\" target=\"_blank\">升級至付費方案</a>以繼續使用雲端保護及進階功能。"
+
+#: resources/countries.php:253
+msgid "South Sudan"
+msgstr "南蘇丹"
+
+#: resources/countries.php:252
+msgid "Bonaire, Sint Eustatius, and Saba"
+msgstr "波奈、聖佑達修斯及沙巴"
+
+#: resources/countries.php:251
+msgid "Curaçao"
+msgstr "庫拉索"
+
+#: resources/countries.php:250
+msgid "Sint Maarten"
+msgstr "聖馬丁"
+
+#: resources/continent.php:4 resources/countries.php:249
+msgid "Antarctica"
+msgstr "南極洲"
+
+#: resources/countries.php:248
+msgid "Serbia"
+msgstr "塞爾維亞"
+
+#: resources/countries.php:247
+msgid "Palestine"
+msgstr "巴勒斯坦"
+
+#: resources/countries.php:246
+msgid "United States"
+msgstr "美國"
+
+#: resources/countries.php:245
+msgid "Canada"
+msgstr "加拿大"
+
+#: resources/countries.php:244
+msgid "American Samoa"
+msgstr "美屬薩摩亞"
+
+#: resources/countries.php:243
+msgid "U.S. Minor Outlying Islands"
+msgstr "美國外島"
+
+#: resources/countries.php:242
+msgid "U.S. Virgin Islands"
+msgstr "美屬維爾京群島"
+
+#: resources/countries.php:241
+msgid "Puerto Rico"
+msgstr "波多黎各"
+
+#: resources/countries.php:240
+msgid "Guam"
+msgstr "關島"
+
+#: resources/countries.php:239
+msgid "Northern Mariana Islands"
+msgstr "北馬里安納群島"
+
+#: resources/countries.php:238
+msgid "Niue"
+msgstr "紐威島"
+
+#: resources/countries.php:237
+msgid "Samoa"
+msgstr "薩摩亞"
+
+#: resources/countries.php:236
+msgid "Wallis and Futuna"
+msgstr "瓦利斯及福杜納"
+
+#: resources/countries.php:235
+msgid "Tonga"
+msgstr "東加"
+
+#: resources/countries.php:234
+msgid "Tokelau"
+msgstr "托克勞群島"
+
+#: resources/countries.php:233
+msgid "Kiribati"
+msgstr "吉里巴斯"
+
+#: resources/countries.php:232
+msgid "Pitcairn Islands"
+msgstr "皮特康群島"
+
+#: resources/countries.php:231
+msgid "French Polynesia"
+msgstr "法屬玻里尼西亞"
+
+#: resources/countries.php:230
+msgid "Mexico"
+msgstr "墨西哥"
+
+#: resources/countries.php:229
+msgid "Peru"
+msgstr "祕魯"
+
+#: resources/countries.php:228
+msgid "Bolivia"
+msgstr "玻利維亞"
+
+#: resources/countries.php:227
+msgid "Chile"
+msgstr "智利"
+
+#: resources/countries.php:226
+msgid "Argentina"
+msgstr "阿根廷"
+
+#: resources/countries.php:225
+msgid "Haiti"
+msgstr "海地"
+
+#: resources/countries.php:224
+msgid "Panama"
+msgstr "巴拿馬"
+
+#: resources/countries.php:223
+msgid "Colombia"
+msgstr "哥倫比亞"
+
+#: resources/countries.php:222
+msgid "Ecuador"
+msgstr "厄瓜多爾"
+
+#: resources/countries.php:221
+msgid "Venezuela"
+msgstr "委內瑞拉"
+
+#: resources/countries.php:220
+msgid "Costa Rica"
+msgstr "哥斯大黎加"
+
+#: resources/countries.php:219
+msgid "Nicaragua"
+msgstr "尼加拉瓜"
+
+#: resources/countries.php:218
+msgid "Honduras"
+msgstr "宏都拉斯"
+
+#: resources/countries.php:217
+msgid "Guatemala"
+msgstr "瓜地馬拉"
+
+#: resources/countries.php:216
+msgid "El Salvador"
+msgstr "薩爾瓦多"
+
+#: resources/countries.php:215
+msgid "Belize"
+msgstr "貝里斯"
+
+#: resources/countries.php:214
+msgid "Cayman Islands"
+msgstr "開曼群島"
+
+#: resources/countries.php:213
+msgid "Grenada"
+msgstr "格瑞那達"
+
+#: resources/countries.php:212
+msgid "Guadeloupe"
+msgstr "瓜地洛普"
+
+#: resources/countries.php:211
+msgid "Saint Barthélemy"
+msgstr "聖巴瑟米"
+
+#: resources/countries.php:210
+msgid "Saint Martin"
+msgstr "聖馬丁"
+
+#: resources/countries.php:209
+msgid "Montserrat"
+msgstr "蒙特色拉特島"
+
+#: resources/countries.php:208
+msgid "Saint Vincent and the Grenadines"
+msgstr "聖文森及格瑞那丁"
+
+#: resources/countries.php:207
+msgid "British Virgin Islands"
+msgstr "英屬維爾京群島"
+
+#: resources/countries.php:206
+msgid "Aruba"
+msgstr "阿路巴"
+
+#: resources/countries.php:205
+msgid "Turks and Caicos Islands"
+msgstr "土克斯及開科斯群島"
+
+#: resources/countries.php:204
+msgid "Saint Lucia"
+msgstr "聖露西亞"
+
+#: resources/countries.php:203
+msgid "Antigua and Barbuda"
+msgstr "安地卡及巴布達"
+
+#: resources/countries.php:202
+msgid "Dominica"
+msgstr "多明尼加"
+
+#: resources/countries.php:201
+msgid "St Kitts and Nevis"
+msgstr "聖克里斯多福及尼維斯"
+
+#: resources/countries.php:200
+msgid "Trinidad and Tobago"
+msgstr "千里達及托巴哥"
+
+#: resources/countries.php:199
+msgid "Anguilla"
+msgstr "安圭拉"
+
+#: resources/countries.php:198
+msgid "Bermuda"
+msgstr "百慕達"
+
+#: resources/countries.php:197
+msgid "Bahamas"
+msgstr "巴哈馬"
+
+#: resources/countries.php:196
+msgid "Martinique"
+msgstr "馬丁尼克"
+
+#: resources/countries.php:195
+msgid "Cuba"
+msgstr "古巴"
+
+#: resources/countries.php:194
+msgid "Dominican Republic"
+msgstr "多明尼加共和國"
+
+#: resources/countries.php:193
+msgid "Jamaica"
+msgstr "牙買加"
+
+#: resources/countries.php:192
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "南喬治亞及南三明治群島"
+
+#: resources/countries.php:191
+msgid "Falkland Islands"
+msgstr "福克蘭群島"
+
+#: resources/countries.php:190
+msgid "Brazil"
+msgstr "巴西"
+
+#: resources/countries.php:189
+msgid "Uruguay"
+msgstr "烏拉圭"
+
+#: resources/countries.php:188
+msgid "Paraguay"
+msgstr "巴拉圭"
+
+#: resources/countries.php:187
+msgid "Greenland"
+msgstr "格陵蘭"
+
+#: resources/countries.php:186
+msgid "Saint Pierre and Miquelon"
+msgstr "聖匹島"
+
+#: resources/countries.php:185
+msgid "Suriname"
+msgstr "蘇利南"
+
+#: resources/countries.php:184
+msgid "French Guiana"
+msgstr "法屬圭亞那"
+
+#: resources/countries.php:183
+msgid "Guyana"
+msgstr "蓋亞那"
+
+#: resources/countries.php:182
+msgid "Cabo Verde"
+msgstr "維德角"
+
+#: resources/countries.php:181
+msgid "Barbados"
+msgstr "巴貝多"
+
+#: resources/countries.php:180
+msgid "Bouvet Island"
+msgstr "布威島"
+
+#: resources/countries.php:179
+msgid "Saint Helena"
+msgstr "聖赫勒拿島"
+
+#: resources/countries.php:178
+msgid "Namibia"
+msgstr "納米比亞"
+
+#: resources/countries.php:177
+msgid "Angola"
+msgstr "安哥拉"
+
+#: resources/countries.php:176
+msgid "Bosnia and Herzegovina"
+msgstr "波士尼亞與赫塞哥維納"
+
+#: resources/countries.php:175
+msgid "Croatia"
+msgstr "克羅埃西亞"
+
+#: resources/countries.php:174
+msgid "Montenegro"
+msgstr "蒙特內哥羅"
+
+#: resources/countries.php:173
+msgid "Slovenia"
+msgstr "斯洛維尼亞"
+
+#: resources/countries.php:172
+msgid "Italy"
+msgstr "義大利"
+
+#: resources/countries.php:171
+msgid "San Marino"
+msgstr "聖馬利諾"
+
+#: resources/countries.php:170
+msgid "Vatican City"
+msgstr "梵蒂岡"
+
+#: resources/countries.php:169
+msgid "Norway"
+msgstr "挪威"
+
+#: resources/countries.php:168
+msgid "Czechia"
+msgstr "捷克"
+
+#: resources/countries.php:167
+msgid "Slovakia"
+msgstr "斯洛伐克"
+
+#: resources/countries.php:166
+msgid "Guernsey"
+msgstr "根西島"
+
+#: resources/countries.php:165
+msgid "Isle of Man"
+msgstr "曼島"
+
+#: resources/countries.php:164
+msgid "Jersey"
+msgstr "澤西島"
+
+#: resources/countries.php:163
+msgid "Liechtenstein"
+msgstr "列支敦斯登"
+
+#: resources/countries.php:162
+msgid "Andorra"
+msgstr "安道爾"
+
+#: resources/countries.php:161
+msgid "France"
+msgstr "法國"
+
+#: resources/countries.php:160
+msgid "Monaco"
+msgstr "摩納哥"
+
+#: resources/countries.php:159
+msgid "Ireland"
+msgstr "愛爾蘭"
+
+#: resources/countries.php:158
+msgid "Luxembourg"
+msgstr "盧森堡"
+
+#: resources/countries.php:157
+msgid "Germany"
+msgstr "德國"
+
+#: resources/countries.php:156
+msgid "Belgium"
+msgstr "比利時"
+
+#: resources/countries.php:155
+msgid "Austria"
+msgstr "奧地利"
+
+#: resources/countries.php:154
+msgid "Netherlands"
+msgstr "荷蘭"
+
+#: resources/countries.php:153
+msgid "Sweden"
+msgstr "瑞典"
+
+#: resources/countries.php:152
+msgid "Switzerland"
+msgstr "瑞士"
+
+#: resources/countries.php:151
+msgid "United Kingdom"
+msgstr "英國"
+
+#: resources/countries.php:150
+msgid "Iceland"
+msgstr "冰島"
+
+#: resources/countries.php:149
+msgid "Denmark"
+msgstr "丹麥"
+
+#: resources/countries.php:148
+msgid "Faroe Islands"
+msgstr "法羅群島"
+
+#: resources/countries.php:147
+msgid "Algeria"
+msgstr "阿爾及利亞"
+
+#: resources/countries.php:146
+msgid "Malta"
+msgstr "馬爾他"
+
+#: resources/countries.php:145
+msgid "Morocco"
+msgstr "摩洛哥"
+
+#: resources/countries.php:144
+msgid "Spain"
+msgstr "西班牙"
+
+#: resources/countries.php:143
+msgid "Tunisia"
+msgstr "突尼西亞"
+
+#: resources/countries.php:142
+msgid "Western Sahara"
+msgstr "西撒哈拉"
+
+#: resources/countries.php:141
+msgid "Mali"
+msgstr "馬利"
+
+#: resources/countries.php:140
+msgid "Niger"
+msgstr "尼日"
+
+#: resources/countries.php:139
+msgid "Chad"
+msgstr "查德"
+
+#: resources/countries.php:138
+msgid "Guinea"
+msgstr "幾內亞"
+
+#: resources/countries.php:137
+msgid "Gambia"
+msgstr "甘比亞"
+
+#: resources/countries.php:136
+msgid "Gibraltar"
+msgstr "直布羅陀"
+
+#: resources/countries.php:135
+msgid "São Tomé and Príncipe"
+msgstr "聖多美及普林西比"
+
+#: resources/countries.php:134
+msgid "Sierra Leone"
+msgstr "獅子山"
+
+#: resources/countries.php:133
+msgid "Gabon"
+msgstr "加彭"
+
+#: resources/countries.php:132
+msgid "Benin"
+msgstr "貝南"
+
+#: resources/countries.php:131
+msgid "Mauritania"
+msgstr "茅利塔尼亞"
+
+#: resources/countries.php:130
+msgid "Guinea-Bissau"
+msgstr "幾內亞比索"
+
+#: resources/countries.php:129
+msgid "Togo"
+msgstr "多哥"
+
+#: resources/countries.php:128
+msgid "Burkina Faso"
+msgstr "布吉納法索"
+
+#: resources/countries.php:127
+msgid "Nigeria"
+msgstr "奈及利亞"
+
+#: resources/countries.php:126
+msgid "Equatorial Guinea"
+msgstr "赤道幾內亞"
+
+#: resources/countries.php:125
+msgid "Ghana"
+msgstr "迦納"
+
+#: resources/countries.php:124
+msgid "Ivory Coast"
+msgstr "象牙海岸"
+
+#: resources/countries.php:123
+msgid "Liberia"
+msgstr "賴比瑞亞"
+
+#: resources/countries.php:122
+msgid "Portugal"
+msgstr "葡萄牙"
+
+#: resources/countries.php:121
+msgid "Congo Republic"
+msgstr "剛果共和國"
+
+#: resources/countries.php:120
+msgid "Senegal"
+msgstr "塞內加爾"
+
+#: resources/countries.php:119
+msgid "Cameroon"
+msgstr "喀麥隆"
+
+#: resources/countries.php:118
+msgid "Libya"
+msgstr "利比亞"
+
+#: resources/countries.php:117
+msgid "Fiji"
+msgstr "斐濟"
+
+#: resources/countries.php:116
+msgid "New Zealand"
+msgstr "紐西蘭"
+
+#: resources/countries.php:115
+msgid "Norfolk Island"
+msgstr "諾福克島"
+
+#: resources/countries.php:114
+msgid "New Caledonia"
+msgstr "新喀里多尼亞群島"
+
+#: resources/countries.php:113
+msgid "Vanuatu"
+msgstr "萬那杜"
+
+#: resources/countries.php:112
+msgid "Nauru"
+msgstr "諾魯"
+
+#: resources/countries.php:111
+msgid "Tuvalu"
+msgstr "吐瓦魯"
+
+#: resources/countries.php:110
+msgid "Solomon Islands"
+msgstr "索羅門群島"
+
+#: resources/countries.php:109
+msgid "Papua New Guinea"
+msgstr "巴布亞紐幾內亞"
+
+#: resources/countries.php:108
+msgid "Federated States of Micronesia"
+msgstr "密克羅尼西亞聯邦"
+
+#: resources/countries.php:107
+msgid "Marshall Islands"
+msgstr "馬紹爾群島"
+
+#: resources/countries.php:106
+msgid "Christmas Island"
+msgstr "聖誕島"
+
+#: resources/countries.php:105
+msgid "Australia"
+msgstr "澳洲"
+
+#: resources/countries.php:104
+msgid "Mongolia"
+msgstr "蒙古"
+
+#: resources/countries.php:103
+msgid "Russia"
+msgstr "俄羅斯"
+
+#: resources/countries.php:102
+msgid "East Timor"
+msgstr "東帝汶"
+
+#: resources/countries.php:101
+msgid "Cook Islands"
+msgstr "柯克群島"
+
+#: resources/countries.php:100
+msgid "Singapore"
+msgstr "新加坡"
+
+#: resources/countries.php:99
+msgid "North Korea"
+msgstr "北韓"
+
+#: resources/countries.php:98
+msgid "Japan"
+msgstr "日本"
+
+#: resources/countries.php:97
+msgid "South Korea"
+msgstr "南韓"
+
+#: resources/countries.php:96
+msgid "Cambodia"
+msgstr "柬埔寨"
+
+#: resources/countries.php:95
+msgid "Macao"
+msgstr "澳門"
+
+#: resources/countries.php:94
+msgid "Brunei"
+msgstr "汶萊"
+
+#: resources/countries.php:93
+msgid "Hong Kong"
+msgstr "香港"
+
+#: resources/countries.php:92
+msgid "China"
+msgstr "中國"
+
+#: resources/countries.php:91
+msgid "Malaysia"
+msgstr "馬來西亞"
+
+#: resources/countries.php:90
+msgid "Philippines"
+msgstr "菲律賓"
+
+#: resources/countries.php:89
+msgid "Taiwan"
+msgstr "台灣"
+
+#: resources/countries.php:88
+msgid "Laos"
+msgstr "寮國"
+
+#: resources/countries.php:87
+msgid "Indonesia"
+msgstr "印尼"
+
+#: resources/countries.php:86
+msgid "Thailand"
+msgstr "泰國"
+
+#: resources/countries.php:85
+msgid "Vietnam"
+msgstr "越南"
+
+#: resources/countries.php:84
+msgid "Palau"
+msgstr "帛琉"
+
+#: resources/countries.php:83
+msgid "Cocos [Keeling] Islands"
+msgstr "可可斯 (基林) 群島"
+
+#: resources/countries.php:82
+msgid "Heard Island and McDonald Islands"
+msgstr "赫德島及麥當勞群島"
+
+#: resources/countries.php:81
+msgid "French Southern Territories"
+msgstr "法屬南半球領土"
+
+#: resources/countries.php:80
+msgid "Kyrgyzstan"
+msgstr "吉爾吉斯"
+
+#: resources/countries.php:79
+msgid "Kazakhstan"
+msgstr "哈薩克"
+
+#: resources/countries.php:78
+msgid "Uzbekistan"
+msgstr "烏茲別克"
+
+#: resources/countries.php:77
+msgid "Myanmar"
+msgstr "緬甸"
+
+#: resources/countries.php:76
+msgid "Nepal"
+msgstr "尼泊爾"
+
+#: resources/countries.php:75
+msgid "British Indian Ocean Territory"
+msgstr "英屬印度洋領土"
+
+#: resources/countries.php:74
+msgid "Maldives"
+msgstr "馬爾地夫"
+
+#: resources/countries.php:73
+msgid "India"
+msgstr "印度"
+
+#: resources/countries.php:72
+msgid "Bhutan"
+msgstr "不丹"
+
+#: resources/countries.php:71
+msgid "Sri Lanka"
+msgstr "斯里蘭卡"
+
+#: resources/countries.php:70
+msgid "Tajikistan"
+msgstr "塔吉克"
+
+#: resources/countries.php:69
+msgid "Turkmenistan"
+msgstr "土庫曼"
+
+#: resources/countries.php:68
+msgid "Bangladesh"
+msgstr "孟加拉"
+
+#: resources/countries.php:67
+msgid "Pakistan"
+msgstr "巴基斯坦"
+
+#: resources/countries.php:66
+msgid "Afghanistan"
+msgstr "阿富汗"
+
+#: resources/countries.php:65
+msgid "Madagascar"
+msgstr "馬達加斯加"
+
+#: resources/countries.php:64
+msgid "Mozambique"
+msgstr "莫三比克"
+
+#: resources/countries.php:63
+msgid "Mayotte"
+msgstr "馬約特島"
+
+#: resources/countries.php:62
+msgid "South Africa"
+msgstr "南非"
+
+#: resources/countries.php:61
+msgid "Réunion"
+msgstr "留尼旺"
+
+#: resources/countries.php:60
+msgid "Eswatini"
+msgstr "史瓦帝尼"
+
+#: resources/countries.php:59
+msgid "Mauritius"
+msgstr "模里西斯"
+
+#: resources/countries.php:58
+msgid "Botswana"
+msgstr "波札那"
+
+#: resources/countries.php:57
+msgid "Lesotho"
+msgstr "賴索托"
+
+#: resources/countries.php:56
+msgid "Malawi"
+msgstr "馬拉威"
+
+#: resources/countries.php:55
+msgid "Comoros"
+msgstr "葛摩"
+
+#: resources/countries.php:54
+msgid "Zambia"
+msgstr "尚比亞"
+
+#: resources/countries.php:53
+msgid "Zimbabwe"
+msgstr "辛巴威"
+
+#: resources/countries.php:52
+msgid "Kosovo"
+msgstr "科索沃"
+
+#: resources/countries.php:51
+msgid "Romania"
+msgstr "羅馬尼亞"
+
+#: resources/countries.php:50
+msgid "Poland"
+msgstr "波蘭"
+
+#: resources/countries.php:49
+msgid "Albania"
+msgstr "阿爾巴尼亞"
+
+#: resources/countries.php:48
+msgid "Bulgaria"
+msgstr "保加利亞"
+
+#: resources/countries.php:47
+msgid "Hungary"
+msgstr "匈牙利"
+
+#: resources/countries.php:46
+msgid "North Macedonia"
+msgstr "北馬其頓"
+
+#: resources/countries.php:45
+msgid "Ukraine"
+msgstr "烏克蘭"
+
+#: resources/countries.php:44
+msgid "Åland"
+msgstr "奧蘭群島"
+
+#: resources/countries.php:43
+msgid "Finland"
+msgstr "芬蘭"
+
+#: resources/countries.php:42
+msgid "Belarus"
+msgstr "白羅斯"
+
+#: resources/countries.php:41
+msgid "Moldova"
+msgstr "摩爾多瓦"
+
+#: resources/countries.php:40
+msgid "Georgia"
+msgstr "喬治亞"
+
+#: resources/countries.php:39
+msgid "Svalbard and Jan Mayen"
+msgstr "冷岸及央棉"
+
+#: resources/countries.php:38
+msgid "Lithuania"
+msgstr "立陶宛"
+
+#: resources/countries.php:37
+msgid "Azerbaijan"
+msgstr "亞塞拜然"
+
+#: resources/countries.php:36
+msgid "Latvia"
+msgstr "拉脫維亞"
+
+#: resources/countries.php:35
+msgid "Estonia"
+msgstr "愛沙尼亞"
+
+#: resources/countries.php:34
+msgid "Burundi"
+msgstr "蒲隆地"
+
+#: resources/countries.php:33
+msgid "Greece"
+msgstr "希臘"
+
+#: resources/countries.php:32
+msgid "Sudan"
+msgstr "蘇丹"
+
+#: resources/countries.php:31
+msgid "Egypt"
+msgstr "埃及"
+
+#: resources/countries.php:30
+msgid "Eritrea"
+msgstr "厄利垂亞"
+
+#: resources/countries.php:29
+msgid "Ethiopia"
+msgstr "衣索比亞"
+
+#: resources/countries.php:28
+msgid "Turkey"
+msgstr "土耳其"
+
+#: resources/countries.php:27
+msgid "Israel"
+msgstr "以色列"
+
+#: resources/countries.php:26
+msgid "United Arab Emirates"
+msgstr "阿拉伯聯合大公國"
+
+#: resources/countries.php:25
+msgid "Bahrain"
+msgstr "巴林"
+
+#: resources/countries.php:24
+msgid "Qatar"
+msgstr "卡達"
+
+#: resources/countries.php:23
+msgid "Oman"
+msgstr "阿曼"
+
+#: resources/countries.php:22
+msgid "Kuwait"
+msgstr "科威特"
+
+#: resources/countries.php:21
+msgid "Lebanon"
+msgstr "黎巴嫩"
+
+#: resources/countries.php:20
+msgid "Jordan"
+msgstr "約旦"
+
+#: resources/countries.php:19
+msgid "Seychelles"
+msgstr "塞席爾"
+
+#: resources/countries.php:18
+msgid "Central African Republic"
+msgstr "中非共和國"
+
+#: resources/countries.php:17
+msgid "Uganda"
+msgstr "烏干達"
+
+#: resources/countries.php:16
+msgid "Djibouti"
+msgstr "吉布地"
+
+#: resources/countries.php:15
+msgid "DR Congo"
+msgstr "剛果民主共和國"
+
+#: resources/countries.php:14
+msgid "Kenya"
+msgstr "肯亞"
+
+#: resources/countries.php:13
+msgid "Armenia"
+msgstr "亞美尼亞"
+
+#: resources/countries.php:12
+msgid "Syria"
+msgstr "敘利亞"
+
+#: resources/countries.php:11
+msgid "Tanzania"
+msgstr "坦尚尼亞"
+
+#: resources/countries.php:10
+msgid "Cyprus"
+msgstr "賽普勒斯"
+
+#: resources/countries.php:9
+msgid "Iran"
+msgstr "伊朗"
+
+#: resources/countries.php:8
+msgid "Saudi Arabia"
+msgstr "沙烏地阿拉伯"
+
+#: resources/countries.php:7
+msgid "Iraq"
+msgstr "伊拉克"
+
+#: resources/countries.php:6
+msgid "Yemen"
+msgstr "葉門"
+
+#: resources/countries.php:5
+msgid "Somalia"
+msgstr "索馬利亞"
+
+#: resources/countries.php:4
+msgid "Rwanda"
+msgstr "盧安達"
+
+#: resources/continent.php:11 resources/countries.php:3
+msgid "Unknown"
+msgstr "未知"
+
+#: views/tab-settings.php:88
+msgid "* Requests are utilized when the cloud app validates an IP address before it is able to perform a login."
+msgstr "* 如果我們的 Cloud App 在某個 IP 位址嘗試登入前便能驗證這個 IP 位址，便視為使用一次要求。"
+
+#: views/tab-settings.php:85
+msgid "Help us secure our network by sharing your login IP data. In return, receive limited access to our premium features up to 1,000 requests for the first month, and 100 requests each subsequent month. Once requests are exceeded for a given month, the premium app will switch to FREE and reset the following month."
+msgstr "透過分享這個網站的登入 IP 位址資訊，便能協助我們為我們的網路提供防護，我們會提供首月可存取付費方案 1000 次要求、之後每個月存取 100 次要求做為回饋。回饋的付費方案要求達到存取上限後，便會切換至免費版本，並會在下個月重設額度。"
+
+#: views/tab-settings.php:78
+msgid "Micro Cloud is a limited upgrade to our cloud app that provides complimentary access to our premium features"
+msgstr "Micro Cloud 是我們的 Cloud App 的有限升級，透過 Micro Cloud 便可以免費存取我們的付費方案功能。"
+
+#: views/tab-settings.php:73
+msgid "Micro Cloud"
+msgstr "Micro Cloud"
+
+#: views/tab-settings.php:654
+msgid "Display Menu Warning Icon"
+msgstr "顯示選單警告圖示"
+
+#: views/tab-settings.php:598
+msgid "It's not uncommon for web hosts to turn off emails for plugins as a security measure.<br>We've <a class=\"llar_bold link__style_color_inherit\" href=\"%s\" target=\"_blank\">created an article</a> to troubleshoot common email deliverability issues."
+msgstr "作為安全措施，網站主機關閉外掛的電子郵件很常見。<br>我們提供了一篇用來對電子郵件傳送問題進行疑難排解的<a class=\"llar_bold link__style_color_inherit\" href=\"%s\" target=\"_blank\">文章</a>。"
+
+#: views/tab-settings.php:564
+msgid "Receive a weekly digest that includes a recap of your failed logins and lockout notifications. Premium users will be able to see additional data such as countries and IPs with most failed logins."
+msgstr "接收包含這個網站的登入失敗及鎖定通知的每週提要。付費方案使用者可以查閱額外的資料，例如最常發生登入失敗的國家/地區及 IP 位址。"
+
+#: views/tab-settings.php:547 views/tab-settings.php:552
+msgid "Weekly Digest"
+msgstr "每週提要"
+
+#: views/tab-settings.php:518
+msgid "This makes the plugin <a href=\"%s\" class=\"unlink link__style_unlink\" target=\"_blank\">GDPR</a> compliant by showing a message on the login page. <a href=\"%s\" class=\"unlink llar-label\" target=\"_blank\">Read more</a>"
+msgstr "啟用這項設定後，顯示於登入頁面的訊息，能讓外掛的資料記錄方式符合 <a href=\"%s\" class=\"unlink link__style_unlink\" target=\"_blank\">GDPR</a> 合規性。<a href=\"%s\" class=\"unlink llar-label\" target=\"_blank\">進一步了解</a>"
+
+#: views/tab-premium.php:76
+msgid "You are currently using the premium version of Limit Login Attempts Reloaded."
+msgstr "這個網站目前使用的是 Limit Login Attempts Reloaded 付費方案。"
+
+#: views/tab-premium.php:74
+msgid "You are currently using Micro Cloud, which provides access to premium cloud app on a limited basis. To prevent interruption, upgrade to one of our paid plans below."
+msgstr "這個網站目前使用的是提供有限度存取進階 Cloud App 基本功能的 Micro Cloud。為防止服務中斷，請升級至以下其中一個付費方案。"
+
+#: views/tab-premium.php:30
+msgid "Limit Login Attempts Reloaded <strong>Micro Cloud</strong>"
+msgstr "Limit Login Attempts Reloaded <strong>Micro Cloud</strong>"
+
+#: views/tab-logs-local.php:285
+msgid "Unblock The Blocked Admins Effortlessly"
+msgstr "輕鬆為遭到鎖定的網站管理員解除鎖定"
+
+#: views/tab-logs-local.php:279
+msgid "Automatically Add Malicious IPs To Your Deny List"
+msgstr "自動將惡意行為的 IP 位址加入拒絕清單"
+
+#: views/tab-logs-local.php:273
+msgid "Identify & Counter New Threats With Ease"
+msgstr "輕鬆識別並計算新威脅"
+
+#: views/tab-logs-local.php:267
+msgid "Enhanced Logs Tell You Exactly Which IPs Are Attempting Logins"
+msgstr "增強式記錄能讓網站管理員清楚了解哪些 IP 位址正在嘗試登入"
+
+#: views/tab-logs-local.php:257
+msgid "Upgrade Today For Enhanced Logs & IP Intelligence"
+msgstr "立即升級以獲得增強式記錄及智慧型 IP 位址"
+
+#: views/tab-logs-local.php:206
+msgid "<a href=\"%s\" class=\"unlink link__style_unlink\" target=\"_blank\">Upgrade today</a> to optimize or unload your DB by moving logs to the cloud."
+msgstr "<a href=\"%s\" class=\"unlink link__style_unlink\" target=\"_blank\">立即升級</a>便能完成最佳化或將資料庫記錄解除載入並移至雲端。"
+
+#: views/tab-logs-local.php:179
+msgid "Deny IPs By Country"
+msgstr "依據國家/地區拒絕 IP 位址"
+
+#: views/tab-logs-local.php:173
+msgid "Unblock The Blocked Admin With Ease"
+msgstr "輕鬆為遭到鎖定的網站管理員解除鎖定"
+
+#: views/tab-logs-local.php:167
+msgid "Access Active Databases Of Malicious IPs To Bolster Defenses"
+msgstr "存取惡意 IP 位址活動資料庫以加強防禦"
+
+#: views/tab-logs-local.php:161
+msgid "Identify & Counter New Threats With IP Intelligence"
+msgstr "使用智慧型 IP 位址識別並計算新威脅"
+
+#: views/tab-logs-local.php:154 views/tab-logs-local.php:260
+#: views/tab-settings.php:296 views/tab-settings.php:408
+msgid "Try For FREE"
+msgstr "免費試用"
+
+#: views/tab-logs-local.php:151
+msgid "Upgrade To Premium For Our Login Firewall"
+msgstr "升級至付費方案以獲得我們的登入防火牆"
+
+#: views/tab-logs-local.php:132
+msgid "Automate your denylist with IP intelligence when you <a href=\"%s\" class=\"unlink link__style_unlink\" target=\"_blank\">upgrade to premium</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">升級至付費版</a>後，便能使用智慧型 IP 位址清單自動拒絕。"
+
+#: views/tab-help.php:181
+msgid "Contact Support"
+msgstr "聯絡技術支援"
+
+#: views/tab-help.php:137
+msgid "How does the login firewall work?"
+msgstr "登入防火牆的運作方式？"
+
+#: views/tab-help.php:55
+msgid "Software Documentation"
+msgstr "軟體線上說明"
+
+#: views/tab-help.php:23
+msgid "Our technical support team is available by email to help<br>with any questions."
+msgstr "我們的技術支援團隊可以透過電子郵件協助解決相關問題。"
+
+#: views/tab-debug.php:90
+msgid "Reset"
+msgstr "重設"
+
+#: views/tab-debug.php:82
+msgid "You can start over the onboarding process by clicking this button. All existing data will remain unchanged."
+msgstr "點擊這個按鈕便可重新開始載入流程。全部現有資料都會保持不變。"
+
+#: views/tab-debug.php:77
+msgid "Start Over"
+msgstr "重新開始"
+
+#: views/tab-dashboard.php:257
+msgid "Upgrade to our premium version for advanced protection."
+msgstr "升級至付費方案以取得進階保護。"
+
+#: views/tab-dashboard.php:246
+msgid "<a class=\"link__style_unlink llar_turquoise\" href=\"#llar_auto_update_choice\">Enable automatic updates</a> to ensure that the plugin stays current with the latest software patches and features."
+msgstr "<a class=\"link__style_unlink llar_turquoise\" href=\"#llar_auto_update_choice\">啟用自動更新</a>便能讓外掛保有最新軟體修補程式及功能。"
+
+#: views/tab-dashboard.php:244
+msgid "Enable automatic updates to ensure that the plugin stays current with the latest software patches and features."
+msgstr "啟用自動更新便能讓外掛保有最新軟體修補程式及功能。"
+
+#: views/tab-dashboard.php:240
+msgid "Turn on plugin auto-updates"
+msgstr "啟用外掛自動更新"
+
+#: views/tab-dashboard.php:232
+msgid "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">Allow or Deny countries</a> to ensure only legitimate users login."
+msgstr "透過<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">允許或拒絕國家/地區</a>以確保僅有合法使用者登入。"
+
+#: views/tab-dashboard.php:221
+msgid "Deny/Allow countries (Premium+ Users)"
+msgstr "拒絕/允許國家/地區 (Premium Plus 方案使用者)"
+
+#: views/tab-dashboard.php:210
+msgid "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">Read our guide</a> on implementing and enforcing strong password policies in your organization."
+msgstr "閱讀這份<a class=\"link__style_unlink llar_turquoise\" href=\"%s\" target=\"_blank\">指南</a>以了解在組織中實施及強制執行強式密碼原則的方式。"
+
+#: views/tab-dashboard.php:205
+msgid "Implement strong account policies"
+msgstr "實施增強式帳號政策"
+
+#: views/tab-dashboard.php:197
+msgid "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\">Enable email notifications</a> to receive timely alerts and updates via email."
+msgstr "<a class=\"link__style_unlink llar_turquoise\" href=\"%s\">啟用電子郵件通知</a>以定期接收通知及更新電子郵件。"
+
+#: views/tab-dashboard.php:186
+msgid "Recommended tasks to greatly improve the security of your website."
+msgstr "能大幅提昇這個網站的安全性的推薦工作。"
+
+#: views/tab-dashboard.php:183
+msgid "Login Security Checklist"
+msgstr "登入安全性清單"
+
+#: views/tab-dashboard.php:75
+msgid "* A request is utilized when our cloud app validates an IP before it is able to perform a login attempt."
+msgstr "* 如果我們的 Cloud App 在某個 IP 位址嘗試登入前便能驗證這個 IP 位址，便視為使用一次要求。"
+
+#: views/tab-dashboard.php:71 views/tab-settings.php:99
+#: views/tab-settings.php:304 views/tab-settings.php:416
+msgid "Get Started"
+msgstr "開始使用"
+
+#: views/tab-dashboard.php:56
+msgid "Once the allocated requests are consumed, the premium app will switch back to the free version and reset the following month."
+msgstr "回饋的付費方案要求達到存取上限後，便會切換至免費版本，並會在下個月重設額度。"
+
+#: views/tab-dashboard.php:53
+msgid "In return, receive access to our premium features up to 1,000 requests per month, and 100 for each subsequent month."
+msgstr "我們會提供首月可存取付費方案 1000 次要求、之後每個月存取 100 次要求做為回饋。"
+
+#: views/tab-dashboard.php:50
+msgid "Help us secure our network by providing access to your login IP data."
+msgstr "以提供存取這個網站的登入 IP 位址資料的方式，協助我們保護使用者的網路。"
+
+#: views/tab-dashboard.php:44
+msgid "Enable Micro Cloud (FREE)"
+msgstr "啟用 Micro Cloud (免費)"
+
+#: views/options-page.php:169
+msgid "Automatic switch to free version when premium stops working (usually due to non-payment or exceeding monthly resource budget)."
+msgstr "當付費方案停止運作時 (通常是因為未完成付款或超過每月使用額度)，會自動切換至免費版本。"
+
+#: views/options-page.php:72
+msgid "Enjoying Micro Cloud? To prevent interruption of the cloud app, <a href=\"%s\" class=\"link__style_color_inherit\" target=\"_blank\">Upgrade to Premium</a> today"
+msgstr "如果覺得 Micro Cloud 不錯，為了防止 Cloud App 服務中斷，請立即<a href=\"%s\" class=\"link__style_color_inherit\" target=\"_blank\">升級至付費方案</a>。"
+
+#: views/onboarding-popup.php:245
+msgid "Thank you for completing the setup"
+msgstr "感謝完成設定"
+
+#: views/onboarding-popup.php:219
+msgid "Congrats! Your website is now activated for Micro Cloud. Account information has been emailed to you for your reference."
+msgstr "大功告成！這個網站已啟用 Micro Cloud。帳號資料已傳送電子郵件供網站管理員參考。"
+
+#: views/onboarding-popup.php:212
+msgid "You may opt-out of this program at any time. You accept our <a class=\"link__style_color_inherit llar_turquoise\" href=\"%s\" target=\"_blank\">terms of service</a> by participating in this program."
+msgstr "加入這個計畫即代表你同意我們的<a class=\"link__style_color_inherit llar_turquoise\" href=\"%s\" target=\"_blank\">服務條款</a>，但可隨時退出這個計畫。"
+
+#: views/onboarding-popup.php:206
+msgid "Sign Me Up"
+msgstr "取得約期授權"
+
+#: views/micro-cloud-modal.php:61 views/onboarding-popup.php:196
+msgid "I consent to registering my domain name <b>%s</b> with the Limit Login Attempts Reloaded cloud service."
+msgstr "我同意在 Limit Login Attempts Reloaded 提供的雲端服務中註冊我的網域名稱 <b>%s</b>。"
+
+#: views/onboarding-popup.php:184
+msgid "<b>Would you like to opt-in?</b>"
+msgstr "<b>是否加入？</b>"
+
+#: views/onboarding-popup.php:181
+msgid "Help us secure our network and we’ll provide you with limited access to our premium features including our login firewall, IP intelligence, and performance optimizer (up to 1,000 requests monthly)."
+msgstr "協助我們為我們的網路提供防護，我們便讓使用者可有限度存取付費方案功能，包含登入防火牆、智慧型 IP 位址及效能最佳化程式 (最多每月可存取 1000 次要求)。"
+
+#: views/onboarding-popup.php:176
+msgid "Limited Upgrade (Free)"
+msgstr "有限升級 (免費)"
+
+#: views/onboarding-popup.php:151
+msgid "Sign me up for the LLAR newsletter to receive important security alerts, plugin updates, and helpful guides."
+msgstr "訂閱 Limit Login Attempts Reloaded 電子報以接收重要的安全性通知、外掛更新及實用的指南。"
+
+#: views/onboarding-popup.php:146
+msgid "This email will receive notifications of unauthorized access to your website. You may turn this off in your settings."
+msgstr "這封電子郵件的內容為未經授權存取這個網站的通知，網站管理員可以在外掛設定中停用。"
+
+#: views/onboarding-popup.php:137
+msgid "Notification Settings"
+msgstr "通知設定"
+
+#: views/onboarding-popup.php:122 views/onboarding-popup.php:162
+#: views/onboarding-popup.php:227
+msgid "Skip"
+msgstr "略過"
+
+#: views/onboarding-popup.php:116
+msgid "No, I don’t want advanced protection"
+msgstr "否，不需要進階保護"
+
+#: views/onboarding-popup.php:113
+msgid "Yes, show me plan options"
+msgstr "是，顯示各項方案"
+
+#: views/onboarding-popup.php:97
+msgid "Block IPs by country, premium support, and much more!"
+msgstr "依據國家地區封鎖 IP 位址、付費技術支援等項目。"
+
+#: views/onboarding-popup.php:94
+msgid "Absorb failed login activity to improve site performance"
+msgstr "承受失敗登入活動以提高網站效能"
+
+#: views/onboarding-popup.php:91
+msgid "Detect, counter, and deny unauthorized logins with IP Intelligence"
+msgstr "透過智慧型 IP 位址偵測、計算並拒絕未經授權的登入。"
+
+#: views/onboarding-popup.php:87
+msgid "We <b>highly recommend</b> upgrading to premium for the best protection against brute force attacks and unauthorized logins"
+msgstr "我們<b>高度建議</b>升級至付費方案，以獲得防止暴力密碼攻擊及未經授權的登入的最佳防護功能。"
+
+#: views/onboarding-popup.php:84
+msgid "Not A Premium User?"
+msgstr "還不是 Premium 方案使用者？"
+
+#: views/onboarding-popup.php:77
+msgid "The Setup Code can be found in your email if you have subscribed to premium"
+msgstr "購買付費方案約期授權後，設定代碼便會在電子郵件通知中。"
+
+#: views/onboarding-popup.php:70
+msgid "Activate"
+msgstr "啟用"
+
+#: views/onboarding-popup.php:68
+msgid "Your Setup Code"
+msgstr "專屬設定代碼"
+
+#: views/onboarding-popup.php:65
+msgid "Add your Setup Code"
+msgstr "新增專屬設定代碼"
+
+#: views/onboarding-popup.php:53
+msgid "Completion"
+msgstr "完成"
+
+#: views/onboarding-popup.php:47
+msgid "Limited Upgrade"
+msgstr "有限升級"
+
+#: views/onboarding-popup.php:35 views/onboarding-popup.php:60
+msgid "Welcome"
+msgstr "歡迎使用"
+
+#: views/micro-cloud-modal.php:95 views/onboarding-popup.php:253
+msgid "Go To Dashboard"
+msgstr "前往 [控制台]"
+
+#: views/micro-cloud-modal.php:90
+msgid "Micro Cloud has been activated!"
+msgstr "Micro Cloud 已啟用。"
+
+#: views/micro-cloud-modal.php:82 views/onboarding-popup.php:223
+msgid "The server is not working, try again later"
+msgstr "伺服器發生錯誤，請稍後再試。"
+
+#: views/micro-cloud-modal.php:73
+msgid "By signing up you agree to our <a href=\"%s\" class=\"llar_turquoise\">terms of service</a> and <a href=\"%s\" class=\"llar_turquoise\">privacy policy.</a>"
+msgstr "註冊即代表你同意我們的<a href=\"%s\" class=\"llar_turquoise\" target=\"_blank\">服務條款</a>及<a href=\"%s\" class=\"llar_turquoise\" target=\"_blank\">隱私權政策</a>。"
+
+#: views/micro-cloud-modal.php:53 views/onboarding-popup.php:142
+#: views/onboarding-popup.php:190 views/tab-settings.php:562
+#: views/tab-settings.php:586
+msgid "Your email"
+msgstr "電子郵件地址"
+
+#: views/micro-cloud-modal.php:48 views/onboarding-popup.php:187
+msgid "Please enter the email that will receive activation confirmation"
+msgstr "請輸入要接收啟用確認資訊的電子郵件地址。"
+
+#: views/micro-cloud-modal.php:43
+msgid "How To Activate Micro Cloud"
+msgstr "啟用 Micro Cloud 的方式"
+
+#: views/micro-cloud-modal.php:32
+msgid "Please note that some domains have very high brute force activity, which may cause Micro Cloud to run out of resources in under 24 hours. We will send an email when resources are fully utilized and the app reverts back to the free version. You may upgrade to one of our premium plans to prevent the app from reverting."
+msgstr "注意事項: 某些網域有著非常頻繁的暴力密碼破解活動，這可能會導致 Micro Cloud 在 24 小時內耗盡使用額度。在耗盡使用額度並恢復為免費版本時，系統會傳送一封通知電子郵件，讓網站可以升級至付費方案，以便繼續使用相關防護功能。"
+
+#: views/micro-cloud-modal.php:29
+msgid "Help us secure our network and we’ll provide you with limited access to our premium features including our login firewall, IP Intelligence, and performance optimizer."
+msgstr "協助我們為我們的網路提供防護，我們便讓使用者可有限度存取付費方案功能，包含登入防火牆、智慧型 IP 位址及效能最佳化程式。"
+
+#: views/micro-cloud-modal.php:26
+msgid "Get Started with Micro Cloud for FREE"
+msgstr "免費使用 Micro Cloud"
+
+#: views/emails/failed-login.php:296
+msgid " Go to your LLAR dashboard to get starte."
+msgstr "前往 Limit Login Attempts Reloaded 控制台以開始。"
+
+#: views/emails/failed-login.php:295
+msgid "Micro Cloud©."
+msgstr "Micro Cloud©。"
+
+#: views/emails/failed-login.php:292
+msgid "<b>Experiencing frequent attacks or degraded performance?</b> You can now receive premium protection for FREE with "
+msgstr "<b>如果遭遇頻繁的攻擊或效能低落</b>，請考慮使用提供進階保護的免費 "
+
+#: views/chart-circle-failed-attempts-today.php:109
+#: views/chart-failed-attempts.php:138
+msgid "An IP that has made an unsuccessful login attempt on your website."
+msgstr "目前在這個網站產生登入嘗試不成功的 IP 位址。"
+
+#: resources/compare-plans-data.php:138
+msgid "Receive 1 on 1 technical support via email for any issues. Free support availabe in the <a href=\"%s\" target=\"_blank\">WordPress support forum</a>."
+msgstr "如有任何問題，都可以透過電子郵件進行一對一技術支援。<a href=\"%s\" target=\"_blank\">WordPress 技術支援論壇</a>提供免費方案的技術支援。"
+
+#: resources/compare-plans-data.php:65
+msgid "Secure your login page with our cutting-edge login firewall, defending against unauthorized access attempts and protecting your users' accounts and sensitive information."
+msgstr "使用我們提供的先進登入防火牆保護網站登入頁面、防止未經授權的存取嘗試並保護網站使用者帳號及敏感性資訊。"
+
+#: core/LimitLoginAttempts.php:1260
+msgid "Failed login by IP %s www.limitloginattempts.com"
+msgstr "無法使用 IP 位址 %s 登入 www.limitloginattempts.com"
+
+#: core/LimitLoginAttempts.php:354 core/LimitLoginAttempts.php:746
+msgid "Free Upgrade"
+msgstr "免費升級"
+
+#: core/Ajax.php:1134
+msgid "Your email notifications for Limit Login Attempts Reloaded are working correctly. If this email is going to spam, please be sure to add this address to your safelist."
+msgstr "這個網站的 Limit Login Attempts Reloaded 電子郵件通知正確執行。如果電子郵件進入垃圾郵件匣，請將這個電子郵件地址新增至個人的安全清單。"
+
+#: core/Ajax.php:1133
+msgid "LLAR Security Notifications [TEST]"
+msgstr "Limit Login Attempts Reloaded 安全性通知 (測試)"
+
+#: views/chart-failed-attempts.php:152
+msgid "A request is utilized when the cloud validates whether an IP address is allowed to attempt a login, which also includes denied logins."
+msgstr "雲端驗證會利用要求判斷是否允許某個 IP 位址的登入嘗試 (也包含拒絕登入嘗試)。"
+
+#: views/chart-circle-failed-attempts-today.php:108
+#: views/chart-failed-attempts.php:137
+msgid "An IP that hasn't been previously denied by the cloud app, but has made an unsuccessful login attempt on your website."
+msgstr "之前沒有遭到 Cloud App 拒絕、但目前在這個網站產生登入嘗試不成功的 IP 位址。"
+
+#: views/tab-settings.php:628
+msgid "The LLAR plugin displays its item on the left navigation menu, which provides a shortcut to the plugin."
+msgstr "啟用這項設定後，Limit Login Attempts Reloaded 會將外掛功能選單項目顯示於左側選單。"
+
+#: views/tab-settings.php:623
+msgid "Display left menu item"
+msgstr "顯示左側選單項目"
+
+#: views/tab-settings.php:618 views/tab-settings.php:635
+#: views/tab-settings.php:666
+msgid "(Save and reload this page to see the changes)"
+msgstr "(儲存設定後必須重新載入頁面才會顯示變更)"
+
+#: views/tab-settings.php:611
+msgid "The LLAR plugin displays its item on the top navigation menu, which provides a shortcut to the plugin."
+msgstr "啟用這項設定後，Limit Login Attempts Reloaded 會將外掛功能選單項目顯示於工具列選單。"
+
+#: views/tab-settings.php:606
+msgid "Display top menu item"
+msgstr "顯示工具列選單項目"
+
+#: views/tab-logs-local.php:243
+msgid "Unlocked"
+msgstr "已解除鎖定"
+
+#: views/tab-logs-local.php:240
+msgid "Unlock"
+msgstr "解除鎖定"
+
+#: views/tab-logs-local.php:231
+msgid " lockouts"
+msgstr " 次登入鎖定"
+
+#: views/tab-logs-local.php:226
+msgid "F d, Y H:i"
+msgstr "Y 年 n 月 j 日a g:i"
+
+#: core/LimitLoginAttempts.php:829
+msgid "LLAR"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/tab-settings.php:794
+msgid "Test email has been sent!"
+msgstr "測試電子郵件已傳送。"
+
+#: views/tab-settings.php:322
+msgid "This is the code you receive via email once you subscribe to the LLAR premium cloud app. (example xxxxxxxxxxxxx=yek?putes/1v/moc.stpmettanigoltimil.ipa)"
+msgstr "購買 Limit Login Attempts Reloaded 付費版 Cloud App 約期授權後，從電子郵件獲得的服務啟用碼。(範例: xxxxxxxxxxxxx=yek?putes/1v/moc.stpmettanigoltimil.ipa)"
+
+#: views/tab-settings.php:214
+msgid "After a specific IP address fails to log in <b>%1$s</b> times, a lockout lasting <b>%2$s</b> minutes is activated. If additional failed attempts occur within <b>%3$s</b> hours and lead to another lockout, once their combined total hits <b>%4$s</b>, the <b>%2$s</b> minutes duration is extended to <b>%5$s</b> hours. The lockout will be lifted once <b>%3$s</b> hours have passed since the last lockout incident."
+msgstr "當某個 IP 位址嘗試登入失敗 <b>%1$s</b> 次後，便會觸發「鎖定 <b>%2$s</b> 分鐘」的網站保護機制。如果同一個 IP 位址在 <b>%3$s</b> 小時內產生其他登入鎖定，一旦次數總計達到 <b>%4$s</b> 次，登入鎖定時間便會從 <b>%2$s</b> 分鐘延長至 <b>%5$s</b> 小時。這個 IP 位址的鎖定時間會從最後一次登入鎖定 <b>%3$s</b> 小時後才會解除。"
+
+#: views/tab-settings.php:208
+msgid "Time in hours before blocks are removed."
+msgstr "自動解除登入封鎖的時間，單位為小時。"
+
+#: views/tab-settings.php:195
+msgid "After the specified number of lockouts the lockout time will increase by specified hours."
+msgstr "在達到設定的登入鎖定次數後，將登入鎖定時間延長至設定的時間。"
+
+#: views/tab-settings.php:179
+msgid "Lockout time in minutes."
+msgstr "登入鎖定時間，單位為分鐘。"
+
+#: views/tab-settings.php:166
+msgid "Number of failed attempts allowed before locking out."
+msgstr "進行登入鎖定前所允許的嘗試登入失敗次數。"
+
+#: views/tab-settings.php:152
+msgid "Set lockout limits based on failed attempts."
+msgstr "依據嘗試登入失敗設定登入鎖定條件。"
+
+#: views/tab-settings.php:112
+msgid "Switches from free version (local) to premium (cloud)."
+msgstr "將免費版本 (伺服器本機) 切換至付費方案 (雲端)。"
+
+#: views/tab-settings.php:659
+msgid "The warning badge is a red bubble icon displayed next to the LLAR logo on the main vertical navigation menu. It displays a warning if there were more than 100 attempts for a day."
+msgstr "警告徽章會在主要直向導覽選單的 Limit Login Attempts Reloaded 標誌旁顯示為紅色泡泡圖。當網站每天的登入嘗試失敗次數超過 100 次，便會顯示這個警告徽章。"
+
+#: views/tab-settings.php:644
+msgid "The LLAR dashboard widget provides a quick glance of your daily failed login activity on the main WordPress dashboard. You may hide this widget by checking this box."
+msgstr "Limit Login Attempts Reloaded 控制台小工具能在 WordPress 控制台提供這個網站每日登入嘗試失敗活動的概況，網站管理員可以點擊這個核取方塊以隱藏小工具。"
+
+#: views/tab-settings.php:591
+msgid "Test Email Notifications"
+msgstr "測試電子郵件通知"
+
+#: views/tab-settings.php:576
+msgid "Email address to which lockout notifications will be sent."
+msgstr "設定用於傳送登入鎖定記錄電子郵件通知的電子郵件地址。"
+
+#: views/tab-settings.php:530
+msgid "This message will appear at the bottom of the login page."
+msgstr "這個訊息會顯示於登入頁面的底部。"
+
+#: views/tab-logs-local.php:111
+msgid "Denylist"
+msgstr "拒絕清單"
+
+#: views/tab-settings.php:230
+msgid "Server variables containing IP addresses."
+msgstr "包含 IP 位址的伺服器變數。"
+
+#: core/LimitLoginAttempts.php:723 resources/compare-plans-data.php:64
+#: views/options-page.php:139
+msgid "Login Firewall"
+msgstr "登入防火牆"
+
+#: core/Ajax.php:1127
+msgid "Wrong email format."
+msgstr "錯誤的電子郵件格式。"
+
+#: views/chart-circle-failed-attempts-today.php:120
+msgid "Cloud protection enabled"
+msgstr "雲端保護功能已啟用"
+
+#: views/emails/failed-login.php:348
+msgid "from these notifications."
+msgstr "這些通知"
+
+#: views/emails/failed-login.php:347
+msgid "Unsubscribe"
+msgstr "取消訂閱"
+
+#: views/emails/failed-login.php:317
+msgid " for more information on our premium services, which can automatically block and detect malicious IP addresses."
+msgstr "以進一步了解付費服務的詳細資訊，付費服務能夠自動封鎖及偵測惡意 IP 位址。"
+
+#: views/emails/failed-login.php:317
+msgid "Limit Login Attempts Reloaded website"
+msgstr "Limit Login Attempts Reloaded 網站"
+
+#: views/emails/failed-login.php:314
+msgid "Unfortunately, we cannot determine the severity of the IP address with the free version of the plugin. If the IP continues to make attempts and is not recognized by your organization, then it's likely to have malicious intent. Depending on how frequent the attacks are, you may experience performance issues. In the plugin dashboard, you can investigate the frequency of the failed login attempts in the logs and take additional steps to protect your website (i.e. adding them to the block list). You can visit the "
+msgstr "很抱歉，我們無法透過免費版外掛辨識 IP 位址的威脅嚴重性，如果同一個 IP 位址持續嘗試登入，並且不屬於你的組織，則可認定為惡意嘗試。根據攻擊頻率的高低，這個網站可能會發生效能問題。在這個外掛的控制台中，網站管理員可以在記錄中查看嘗試登入失敗的頻率，並採取其他動作以保護網站 (例如將這些 IP 位置加入封鎖清單)。請造訪 "
+
+#: views/emails/failed-login.php:313
+msgid "How dangerous is this failed login attempt?"
+msgstr "嘗試登入失敗導致的危險性？"
+
+#: views/emails/failed-login.php:311
+msgid "You are receiving this email because there was a failed login attempt on your website {domain}. If you'd like to opt out of these notifications, please click the “Unsubscribe” link below."
+msgstr "會收到這些電子郵件，是因為網址為 {domain} 的網站發生嘗試登入失敗。如果不想再收到這些通知，請點擊下方的 [取消訂閱] 連結。"
+
+#: views/emails/failed-login.php:310
+msgid "Why am I getting these emails?"
+msgstr "為什麼我會收到這些電子郵件？"
+
+#: views/emails/failed-login.php:308
+msgid "A failed login attempt is when an IP address uses incorrect credentials to log into your website. The IP address could be a human operator, or a program designed to guess your password."
+msgstr "嘗試登入失敗是指某個 IP 位址使用不正確的憑證登入這個網站。IP 位址可以是人為操作，也可以是設計用來猜測網站密碼的程式。"
+
+#: views/emails/failed-login.php:307
+msgid "What is a failed login attempt?"
+msgstr "什麼是嘗試登入失敗？"
+
+#: views/emails/failed-login.php:305
+msgid "Frequently Asked Questions"
+msgstr "常見問題集"
+
+#: views/emails/failed-login.php:276
+msgid "Go to Dashboard"
+msgstr "前往 [控制台]"
+
+#: views/emails/failed-login.php:262
+msgid "Please visit your WordPress dashboard for additional details, investigation options, and help articles."
+msgstr "請前往 WordPress 控制台以取得更多詳細資料、調查選項及使用說明內容。"
+
+#: views/emails/failed-login.php:258
+msgid "IP was blocked for {blocked_duration}"
+msgstr "這個 IP 位址已遭鎖定 {blocked_duration}"
+
+#: views/emails/failed-login.php:256
+msgid "Last user attempted: <b>{username}</b>"
+msgstr "最後嘗試登入的使用者：<b>{username}</b>"
+
+#: views/emails/failed-login.php:253
+msgid "{attempts_count} failed login attempts ({lockouts_count} lockout(s)) from IP <b>{ip_address}</b>"
+msgstr "來自 IP 位址 <b>{ip_address}</b> 的登入嘗試已失敗 {attempts_count} 次 ({lockouts_count} 次登入鎖定)"
+
+#: views/emails/failed-login.php:250
+msgid "The failed login details include:"
+msgstr "登入失敗嘗試詳細資訊："
+
+#: views/emails/failed-login.php:248
+msgid "This is installed on your <b>{domain}</b> WordPress site."
+msgstr "這個外掛安裝於網址為 <b>{domain}</b> 的 WordPress 網站。"
+
+#: views/emails/failed-login.php:244
+msgid "Hello,"
+msgstr "你好，"
+
+#: views/emails/failed-login.php:243
+msgid "Hello {name},"
+msgstr "{name}，你好，"
+
+#: views/chart-circle-failed-attempts-today.php:51
+msgid "Warning: Your site has experienced over 100 failed login attempts in the past 24 hours"
+msgstr "警告: 這個網站過去 24 小時發生超過 100 次登入嘗試失敗。"
+
+#: views/chart-circle-failed-attempts-today.php:46
+#: views/chart-circle-failed-attempts-today.php:80
+msgid "(past 24 hrs)"
+msgstr "(過去 24 小時)"
+
+#: views/chart-circle-failed-attempts-today.php:40
+#: views/chart-circle-failed-attempts-today.php:75
+msgid "Hooray! Zero failed login attempts (past 24 hrs)"
+msgstr "太棒了！過去 24 小時沒有發生任何登入嘗試失敗"
+
+#: views/tab-settings.php:289 views/tab-settings.php:454
+msgid "No contract - cancel anytime"
+msgstr "不需合約，隨時可以取消"
+
+#: core/LimitLoginAttempts.php:1810
+msgid "The %s IP range is invalid"
+msgstr "IP 位址範圍 %s 無效。"
+
+#: views/tab-settings.php:344
+msgid "Add this code to all websites in your network to sync protection (payment required for additional domains unless it's with an Agency plan's first tier)."
+msgstr "將這個代碼加入受你管理的多站網路中，便能同步進行保護 (需要購買 Agency 方案，否則額外的網域需要付費)。"
+
+#: resources/compare-plans-data.php:129
+msgid "Lockouts & safelists/blocklists can be shared between multiple domains to enhance protection."
+msgstr "可以跨多個網域分享登入鎖定設定及安全清單/封鎖清單以加強保護。"
+
+#: resources/compare-plans-data.php:128
+msgid "Synchronize Lockouts & Safelists/Blocklists"
+msgstr "同步登入鎖定設定及安全清單/封鎖清單"
+
+#: resources/compare-plans-data.php:121
+msgid "Use active IP database via the cloud to automatically block users before they are able to make a failed login."
+msgstr "在惡意 IP 位址嘗試登入失敗前，使用雲端主動式 IP 位址資料庫自動封鎖這類 IP 位址。"
+
+#: resources/compare-plans-data.php:120
+msgid "Intelligent IP Blocking"
+msgstr "智慧型 IP 位址封鎖技術"
+
+#: resources/compare-plans-data.php:113
+msgid "Use system wide data from over 10,000 WordPress websites to identify and block malicious IPs. This is an active list in real-time."
+msgstr "使用超過 10,000 個 WordPress 網站的系統資料 (即時活動清單) 以識別並封鎖惡意行為 IP 位址。"
+
+#: resources/compare-plans-data.php:112
+msgid "Access Active Cloud Blocklist"
+msgstr "存取主動式雲端封鎖清單"
+
+#: resources/compare-plans-data.php:105
+msgid "Automatically add malicious IPs to your blocklist when triggered by the system."
+msgstr "當偵測到符合惡意行為的 IP 位址時，自動將這個 IP 位址加入網站的封鎖清單。"
+
+#: resources/compare-plans-data.php:104
+msgid "Auto IP Blocklist"
+msgstr "自動將具備惡意企圖的 IP 位址加入封鎖清單"
+
+#: resources/compare-plans-data.php:97
+msgid "Add another layer of protection from brute force bots by accessing a global database of known IPs with malicious activity."
+msgstr "透過存取曾進行惡意活動的 IP 位址的全球資料庫，為網站防範密碼暴力破解機器人多加一層保護。"
+
+#: resources/compare-plans-data.php:96
+msgid "Access Blocklist of Malicious IPs"
+msgstr "存取惡意 IP 位址封鎖清單"
+
+#: resources/compare-plans-data.php:89
+msgid "Disable IPs from any region to disable logins."
+msgstr "可依需求禁止任何國家/地區的 IP 位址以封鎖登入嘗試。"
+
+#: resources/compare-plans-data.php:88
+msgid "Block By Country"
+msgstr "依據國家/地區進行封鎖"
+
+#: resources/compare-plans-data.php:78
+msgid "300k requests per month"
+msgstr "每月 30 萬次要求"
+
+#: resources/compare-plans-data.php:77
+msgid "200k requests per month"
+msgstr "每月 20 萬次要求"
+
+#: resources/compare-plans-data.php:76
+msgid "100k requests per month"
+msgstr "每月 10 萬次要求"
+
+#: resources/compare-plans-data.php:73
+msgid "Absorb failed login attempts from brute force bots in the cloud to keep your website at its optimal performance."
+msgstr "由我們提供的雲端服務承受來自暴力密碼破解機器人的失敗登入嘗試，以維持網站的最佳性能。"
+
+#: resources/compare-plans-data.php:57
+msgid "Configurable Lockout Timing"
+msgstr "登入鎖定條件組態"
+
+#: resources/compare-plans-data.php:50
+msgid "Limit Number of Retry Attempts"
+msgstr "重複登入嘗試限制次數"
+
+#: resources/compare-plans-data.php:27
+msgid "Installed"
+msgstr "已安裝"
+
+#: core/LimitLoginAttempts.php:746
+msgid "Premium"
+msgstr "付費方案"
+
+#: views/tab-premium.php:95
+msgid "Features comparison"
+msgstr "功能比較"
+
+#: views/tab-premium.php:88
+msgid "Although the free version offers basic protection, the premium version includes an important feature called <b>IP Intelligence</b>. With IP intelligence, your website will be able to identify malicious IPs before they attempt a login, and absorb them into the cloud to save system resources. Your site will not only be more secure, but will operate at its optimal performance."
+msgstr "免費方案雖已提供網站基本的保護，但是付費方案包含稱為 <b>IP Intelligence</b> (智慧型 IP 位址) 的重要功能；透過 IP Intelligence 功能，網站便能在惡意 IP 位址嘗試登入前，主動識別出惡意 IP 位址，並由我們的雲端服務承受這些惡意 IP 位址的登入嘗試，以節省網站系統資源。如此一來，網站不僅會更加安全，還能發揮出最佳效能。"
+
+#: views/tab-premium.php:85
+msgid "Why Should I Consider Premium?"
+msgstr "網站需要使用付費方案的原因"
+
+#: views/tab-premium.php:70
+msgid "If you purchased a premium plan, check your email for setup instructions (Setup Code included)"
+msgstr "如果已購買付費方案，請檢查電子郵件中包含 [設定代碼] 的設定說明。"
+
+#: views/tab-premium.php:68
+msgid "You are currently using the free version of <strong>Limit Login Attempts Reloaded</strong>."
+msgstr "這個網站目前使用的是 <strong>Limit Login Attempts Reloaded</strong> 免費版。"
+
+#: views/tab-premium.php:61
+msgid "Get It Here"
+msgstr "購買授權"
+
+#: views/tab-premium.php:53
+msgid "Support"
+msgstr "技術支援"
+
+#: views/tab-premium.php:48
+msgid "Ask a pre-sales question"
+msgstr "詢問售前問題"
+
+#: views/tab-premium.php:43
+msgid "Pre-sales FAQs"
+msgstr "售前常見問題集"
+
+#: views/tab-premium.php:38
+msgid "Full feature list"
+msgstr "完整功能清單"
+
+#: views/tab-premium.php:32
+msgid "Limit Login Attempts Reloaded <strong>Premium</strong>"
+msgstr "Limit Login Attempts Reloaded <strong>Premium</strong>"
+
+#: views/tab-help.php:161
+msgid "What URLs are being attacked and protected?"
+msgstr "哪些網址會遭到攻擊並應該加以保護？"
+
+#: views/tab-help.php:155
+msgid "I just installed LLAR and I'm already getting several failed login attempts"
+msgstr "網站安裝 Limit Login Attempts Reloaded 後，馬上發生登入嘗試失敗的狀況"
+
+#: views/tab-help.php:149
+msgid "What do I do if all users get blocked?"
+msgstr "如果全部使用者遭到封鎖，網站管理員應該怎麼處理？"
+
+#: views/tab-help.php:143
+msgid "What happens if my site exceeds the request limits in the plan?"
+msgstr "如果網站超出目前方案的要求上限，會發生什麼狀況？"
+
+#: views/tab-help.php:131
+msgid "Could these failed login attempts be fake?"
+msgstr "這些登入嘗試失敗是否會造假？"
+
+#: views/tab-help.php:125
+msgid "Why am I still seeing login attempts even after the IP got blocked?"
+msgstr "為何在 IP 位址遭到封鎖後，仍能看到登入嘗試？"
+
+#: views/tab-help.php:119
+msgid "What do I do if the admin gets blocked?"
+msgstr "如果網站管理員遭到封鎖，該如何解決？"
+
+#: views/tab-help.php:113
+msgid "How can I tell that the premium plugin is working?"
+msgstr "如何判斷付費方案外掛是否如預期般執行？"
+
+#: views/tab-help.php:107
+msgid "How do I know if I'm under attack?"
+msgstr "如何得知網站正在遭受攻擊？"
+
+#: views/tab-help.php:101
+msgid "Top Topics and Questions"
+msgstr "熱門主題及問題"
+
+#: views/tab-help.php:93
+msgid "Questions regarding premium software sales."
+msgstr "與付費服務銷售相關的問題。"
+
+#: views/tab-help.php:91
+msgid "Pre-sales Questions"
+msgstr "售前問題"
+
+#: views/tab-help.php:85
+msgid "Questions regarding updating billing info, cancellation, and expiration."
+msgstr "與更新帳單資訊、取消約期授權及約期授權到期相關的問題。"
+
+#: views/tab-help.php:83
+msgid "Accounts & Billing"
+msgstr "帳號及帳單"
+
+#: views/tab-help.php:78
+msgid "Popular technical questions about the service including admin blocking, definitions, and email notifications."
+msgstr "與服務相關的常見技術問題，包含網站管理員遭到封鎖、定義及電子郵件通知。"
+
+#: views/tab-help.php:76
+msgid "Technical Questions"
+msgstr "技術問題"
+
+#: views/tab-help.php:70
+msgid "Questions regarding the cloud service including how to activate, logs and storage, and compliance."
+msgstr "與雲端服務相關的問題，包含啟用方式、記錄、儲存空間及合規性。"
+
+#: views/tab-help.php:68
+msgid "Cloud Service & Security"
+msgstr "雲端服務及安全性"
+
+#: views/tab-help.php:62
+msgid "All Documentation"
+msgstr "線上說明"
+
+#: views/tab-help.php:51
+msgid "GDPR Information"
+msgstr "GDPR 資訊"
+
+#: views/tab-help.php:42
+msgid "Go To Support Forums"
+msgstr "前往技術支援論壇"
+
+#: views/tab-help.php:37
+msgid "Support for free customers is available via our forums page on WordPress.org.<br>The majority of requests <b>receive an answer within a few days</b>."
+msgstr "使用免費方案的使用者，可以透過 WordPress.org 的技術論壇取得技術支援。大多數的要求<b>會在幾天內得到回覆</b>。"
+
+#: views/tab-help.php:34
+msgid "Free Support"
+msgstr "免費技術支援"
+
+#: views/tab-help.php:176
+msgid "Our technical support team is available by email to help with any questions."
+msgstr "我們的技術支援團隊可以透過電子郵件協助解決相關問題。"
+
+#: views/tab-help.php:20
+msgid "Upgrade Now to Access Premium Support"
+msgstr "立即升級至以存取付費方案技術支援"
+
+#: views/tab-debug.php:70
+msgid "Version"
+msgstr "版本"
+
+#: views/chart-failed-attempts.php:227
+msgid "Attempts"
+msgstr "嘗試次數"
+
+#: views/options-page.php:159
+msgid "Premium / Extensions"
+msgstr "付費方案/擴充功能"
+
+#: views/options-page.php:88
+msgid "Yes, enable auto-update"
+msgstr "是，啟用自動更新"
+
+#: views/options-page.php:86
+msgid "Do you want Limit Login Attempts Reloaded to provide the latest version automatically?"
+msgstr "是否需要 Limit Login Attempts Reloaded 自動提供最新版本？"
+
+#: views/app-widgets/event-log.php:61
+msgid "Loading older events, skipping ACL events. <a href=\"%s\" target=\"_blank\">Full logs</a>"
+msgstr "載入較舊的事件，略過 ACL 事件。<a href=\"%s\" target=\"_blank\">完整記錄</a>"
+
+#: views/app-widgets/event-log.php:54 views/app-widgets/login-attempts.php:62
+msgid "Load older events"
+msgstr "載入較舊的事件"
+
+#: views/chart-circle-failed-attempts-today.php:47
+#: views/chart-circle-failed-attempts-today.php:81
+msgid "Your site is currently at a low risk for brute force activity"
+msgstr "這個網站目前處於低暴力密碼破解風險中。"
+
+#: views/micro-cloud-modal.php:68 views/onboarding-popup.php:158
+#: views/onboarding-popup.php:230
+msgid "Continue"
+msgstr "繼續"
+
+#: views/options-page.php:92
+msgid "No thanks"
+msgstr "不用了，謝謝"
+
+#: views/tab-help.php:28
+msgid "Upgrade To Premium"
+msgstr "升級至付費方案"
+
+#: views/tab-logs-custom.php:36
+msgid "Or"
+msgstr "或"
+
+#: views/app-widgets/active-lockouts.php:13
+msgid "Reload"
+msgstr "重新載入"
+
+#: views/tab-settings.php:330
+msgid "Edit"
+msgstr "編輯"
+
+#: views/emails/failed-login.php:327
+msgid "This alert was sent by your website where Limit Login Attempts Reloaded free version is installed and you are listed as the admin. If you are a GoDaddy customer, the plugin is installed into a must-use (MU) folder."
+msgstr "這是由網站上的 Limit Login Attempts Reloaded 免費版傳送給網站管理員的通知。如果你是 GoDaddy 的客戶，這個外掛會安裝至 wp-content/mu-plugins 資料夾。"
+
+#: views/tab-settings.php:300 views/tab-settings.php:412
+msgid "Upgrade"
+msgstr "升級"
+
+#: views/app-widgets/acl-rules.php:14 views/app-widgets/acl-rules.php:63
+msgid "Documentation"
+msgstr "線上說明"
+
+#. Description of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "Block excessive login attempts and protect your site against brute force attacks. Simple, yet powerful tools to improve site performance."
+msgstr "封鎖過度的登入嘗試，並保護網站免受暴力密碼破解攻擊，是簡單、實用、能改善網站效能的工具。"
+
+#: views/tab-settings.php:639
+msgid "Hide Dashboard Widget"
+msgstr "隱藏控制台小工具"
+
+#: views/app-widgets/event-log.php:24
+msgid "All attempts blocked by access rules are hidden by default. You can see the full log at this link."
+msgstr "預設會隱藏由登入存取規則所封鎖的全部登入嘗試。網站管理員可以透過這個連結檢視完整記錄。"
+
+#: views/app-widgets/event-log.php:19
+msgid "Full Logs"
+msgstr "完整記錄"
+
+#: views/tab-settings.php:540
+msgid "You can use a shortcode here to insert links, for example, a link to your Privacy Policy page. <br>The shortcode is: [llar-link url=\"https://example.com\" text=\"Privacy Policy\"]"
+msgstr "使用顯示於下方的短代碼，便能插入連結；舉例來說，插入這個網站的〈隱私權政策〉頁面連結。<br>短代碼: [llar-link url=\"https://example.com\" text=\"隱私權政策\"]"
+
+#: views/app-widgets/country-access-rules.php:22
+msgid "these countries:"
+msgstr "國家/地區清單:"
+
+#: views/app-widgets/country-access-rules.php:14
+msgid "Country Access Rules"
+msgstr "國家/地區存取規則"
+
+#: core/Config.php:96
+msgid "By proceeding you understand and give your consent that your IP address and browser information might be processed by the security plugins installed on this site."
+msgstr "如果繼續進行，代表你理解並同意你的 IP 位址及瀏覽器資訊可能會由這個網站上安裝的安全性外掛處理。"
+
+#: views/tab-settings.php:525
+msgid "GDPR message"
+msgstr "GDPR 訊息"
+
+#: views/chart-circle-failed-attempts-today.php:102
+#: views/chart-failed-attempts.php:36 views/chart-failed-attempts.php:121
+#: views/chart-failed-attempts.php:131
+msgid "Failed Login Attempts"
+msgstr "登入嘗試失敗次數"
+
+#: views/chart-circle-failed-attempts-today.php:93
+msgid "Failed Login Attempts Today"
+msgstr "今天的登入嘗試失敗次數"
+
+#: views/tab-dashboard.php:147
+msgid "Many options such as notifications, alerts, premium status, and more."
+msgstr "提供通知、警訊、進階狀態等功能。"
+
+#: views/tab-dashboard.php:143
+msgid "Global Options"
+msgstr "全域選項"
+
+#: views/tab-dashboard.php:132
+msgid "Find the documentation and help you need."
+msgstr "可供使用者依需求查閱的使用說明。"
+
+#: core/LimitLoginAttempts.php:738 views/options-page.php:155
+#: views/tab-dashboard.php:128
+msgid "Help"
+msgstr "使用說明"
+
+#: views/tab-dashboard.php:117
+msgid "View lockouts logs, block or whitelist usernames or IPs, and more."
+msgstr "檢視登入鎖定記錄、使用者名稱或 IP 位址的封鎖或允許等資訊。"
+
+#: views/tab-dashboard.php:113
+msgid "Tools"
+msgstr "工具"
+
+#: views/tab-dashboard.php:67 views/tab-settings.php:95
+msgid "Learn More"
+msgstr "進一步了解"
+
+#: views/onboarding-popup.php:41
+msgid "Notifications"
+msgstr "通知"
+
+#: core/LimitLoginAttempts.php:361 views/tab-dashboard.php:97
+#: views/tab-dashboard.php:253
+msgid "Upgrade to Premium"
+msgstr "升級至付費方案"
+
+#: views/tab-dashboard.php:87
+msgid "As a free user, your local server is absorbing the traffic brought on by brute force attacks, potentially slowing down your website. Upgrade to Premium today to outsource these attacks through our cloud app, and slow down future attacks with advanced throttling."
+msgstr "如果使用免費版本，發生暴力密碼破解攻擊時只能由網站伺服器本機承受攻擊，這樣有可能會拖慢網站速度。立即升級至付費方案，便能使用我們提供的 Cloud App 在雲端承受這類攻擊，並透過進階限制方式降低將來的攻擊速度。"
+
+#: views/tab-dashboard.php:83
+msgid "Premium Protection Disabled"
+msgstr "進階保護功能已停用"
+
+#: views/tab-logs-local.php:88
+msgid "Safelist"
+msgstr "安全清單"
+
+#: resources/compare-plans-data.php:35
+msgid "Upgrade now"
+msgstr "立即升級"
+
+#: resources/compare-plans-data.php:72
+msgid "Performance Optimizer"
+msgstr "效能最佳化程式"
+
+#: views/app-widgets/active-lockouts.php:8
+msgid "Active Lockouts"
+msgstr "目前鎖定目標"
+
+#: views/chart-failed-attempts.php:44 views/chart-failed-attempts.php:147
+#: views/chart-failed-attempts.php:244
+msgid "Requests"
+msgstr "要求"
+
+#: views/tab-settings.php:312 views/tab-settings.php:317
+msgid "Setup Code"
+msgstr "設定代碼"
+
+#: views/chart-circle-failed-attempts-today.php:45
+#: views/chart-circle-failed-attempts-today.php:79
+msgid "%d failed login attempt "
+msgid_plural "%d failed login attempts "
+msgstr[0] "%d 次登入嘗試失敗 - "
+
+#: core/LimitLoginAttempts.php:2163
+msgid "Don't show this message again"
+msgstr "請不要再次顯示這個訊息"
+
+#: core/LimitLoginAttempts.php:2162
+msgid "Remind me a month from now"
+msgstr "一個月後再提醒"
+
+#: core/LimitLoginAttempts.php:2161
+msgid "Yes, turn on email notifications"
+msgstr "是，開啟電子郵件通知"
+
+#: core/LimitLoginAttempts.php:2156
+msgid "You have been upgraded to the latest version of <strong>Limit Login Attempts Reloaded</strong>.<br> Due to increased security threats around the holidays, we recommend turning on email notifications when you receive a failed login attempt."
+msgstr "這個網站已升級至最新版的 <strong>Limit Login Attempts Reloaded</strong>。<br>隨著假期的到來，安全性威脅與日俱增，我們建議開啟接收登入失敗嘗試的電子郵件通知。"
+
+#: views/emails/failed-login.php:246
+msgid "This notification was sent automatically via Limit Login Attempts Reloaded Plugin."
+msgstr "這封電子郵件通知由 Limit Login Attempts Reloaded 自動傳送。"
+
+#: resources/compare-plans-data.php:136 views/tab-help.php:173
+msgid "Premium Support"
+msgstr "付費技術支援"
+
+#: views/options-page.php:164
+msgid "Failover"
+msgstr "容錯移轉"
+
+#: core/LimitLoginAttempts.php:728 views/options-page.php:145
+msgid "Logs"
+msgstr "記錄"
+
+#: views/tab-settings.php:351
+msgid "Configuration"
+msgstr "組態"
+
+#: views/tab-settings.php:282 views/tab-settings.php:448
+msgid "Run auto backups of access control lists, lockouts and logs"
+msgstr "執行存取控制清單、登入鎖定資料及記錄的自動備份"
+
+#: views/tab-settings.php:275 views/tab-settings.php:442
+msgid "Get premium support"
+msgstr "獲得付費技術支援"
+
+#: views/tab-settings.php:268 views/tab-settings.php:436
+msgid "Sync the allow/deny/pass lists between multiple domains"
+msgstr "在多個網域間同步允許/拒絕/忽略清單"
+
+#: views/tab-settings.php:261 views/tab-settings.php:430
+msgid "Use intelligent IP denial/unblocking technology"
+msgstr "使用智慧型 IP 位址拒絕/解除封鎖技術"
+
+#: views/tab-settings.php:255 views/tab-settings.php:424
+msgid "Absorb site load caused by attacks"
+msgstr "抵禦由攻擊造成的網站負載"
+
+#: views/tab-settings.php:249 views/tab-settings.php:404
+msgid "Why Use Our Premium Cloud App?"
+msgstr "使用付費方案 Cloud App 的優勢"
+
+#: views/tab-settings.php:339
+msgid "Submit"
+msgstr "儲存"
+
+#: views/tab-settings.php:143
+msgid "Local App"
+msgstr "伺服器本機應用程式"
+
+#: views/tab-settings.php:64
+msgid "App Settings"
+msgstr "應用程式設定"
+
+#: views/tab-settings.php:132
+msgid "Get advanced protection by <a href=\"%s\" class=\"unlink llar-upgrade-to-cloud\">upgrading to our Cloud App</a>."
+msgstr "網站如需進階保護功能，請<a href=\"%s\" class=\"unlink llar-upgrade-to-cloud\">升級至 Cloud App</a>。"
+
+#: views/tab-settings.php:107
+msgid "Active App"
+msgstr "使用中的應用程式"
+
+#: views/app-widgets/acl-rules.php:59
+msgid "IP Access Rules"
+msgstr "IP 位址存取規則"
+
+#: views/app-widgets/acl-rules.php:10
+msgid "Login Access Rules"
+msgstr "登入存取規則"
+
+#: views/app-widgets/event-log.php:14
+msgid "Event Log"
+msgstr "事件記錄"
+
+#: core/CloudApp.php:132
+msgid "The endpoint is not responding. Please contact your app provider to settle that."
+msgstr "端點沒有回應。請聯絡應用程式提供者以解決這個問題。"
+
+#: core/Ajax.php:779
+msgid "No rules yet."
+msgstr "尚無規則。"
+
+#: views/app-widgets/acl-rules.php:44 views/app-widgets/acl-rules.php:93
+#: views/app-widgets/country-access-rules.php:26
+msgid "Add"
+msgstr "新增"
+
+#: views/app-widgets/acl-rules.php:39 views/app-widgets/acl-rules.php:88
+msgid "Pass"
+msgstr "忽略"
+
+#: views/app-widgets/acl-rules.php:38 views/app-widgets/acl-rules.php:87
+msgid "Allow"
+msgstr "允許"
+
+#: views/app-widgets/acl-rules.php:37 views/app-widgets/acl-rules.php:86
+#: views/app-widgets/country-access-rules.php:55
+msgid "Deny"
+msgstr "拒絕"
+
+#: views/app-widgets/acl-rules.php:26 views/app-widgets/acl-rules.php:75
+msgid "Action"
+msgstr "可用操作"
+
+#: core/Ajax.php:728
+msgid "Meanwhile, the app falls over to the <a href=\"%s\">default functionality</a>."
+msgstr "同時，應用程式會回復到<a href=\"%s\">預設功能</a>。"
+
+#: core/Ajax.php:711
+msgid "No lockouts yet."
+msgstr "尚無登入鎖定。"
+
+#: views/app-widgets/active-lockouts.php:25
+msgid "Expires in (minutes)"
+msgstr "封鎖期限 (分鐘)"
+
+#: views/app-widgets/active-lockouts.php:24
+msgid "Count"
+msgstr "登入次數"
+
+#: core/Ajax.php:359 core/Ajax.php:662
+msgid "No events yet."
+msgstr "尚無事件。"
+
+#: views/app-widgets/event-log.php:46
+msgid "Actions"
+msgstr "可用操作"
+
+#: views/app-widgets/event-log.php:45
+msgid "Lockout Duration"
+msgstr "登入鎖定持續時間"
+
+#: views/app-widgets/event-log.php:44
+msgid "Attempts Left"
+msgstr "嘗試剩餘次數"
+
+#: views/app-widgets/acl-rules.php:24 views/app-widgets/acl-rules.php:33
+#: views/app-widgets/acl-rules.php:73 views/app-widgets/acl-rules.php:82
+#: views/app-widgets/event-log.php:43
+msgid "Pattern"
+msgstr "模式"
+
+#: views/app-widgets/event-log.php:42
+msgid "Reason"
+msgstr "原因"
+
+#: views/app-widgets/acl-rules.php:25 views/app-widgets/acl-rules.php:74
+#: views/app-widgets/event-log.php:41
+msgid "Rule"
+msgstr "規則"
+
+#: views/app-widgets/active-lockouts.php:23 views/app-widgets/event-log.php:40
+#: views/app-widgets/login-attempts.php:50
+msgid "Login"
+msgstr "登入"
+
+#: views/app-widgets/active-lockouts.php:22 views/app-widgets/event-log.php:38
+#: views/app-widgets/login-attempts.php:51
+msgid "IP"
+msgstr "IP 位址"
+
+#: views/app-widgets/event-log.php:37 views/app-widgets/login-attempts.php:49
+msgid "Time"
+msgstr "時間"
+
+#: core/Ajax.php:175
+msgid "Please specify the Setup Code"
+msgstr "請輸入 [設定代碼]"
+
+#: core/CloudApp.php:157
+msgid "The app has been successfully imported."
+msgstr "應用程式已成功匯入。"
+
+#. Author URI of the plugin
+#: limit-login-attempts-reloaded.php
+msgid "https://www.limitloginattempts.com/"
+msgstr "https://www.limitloginattempts.com/"
+
+#: core/LimitLoginAttempts.php:343 core/LimitLoginAttempts.php:712
+#: views/options-page.php:129
+msgid "Dashboard"
+msgstr "控制台"
+
+#: views/tab-logs-local.php:142 views/tab-settings.php:467
+#: views/tab-settings.php:807
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: views/tab-settings.php:67
+msgid "The app absorbs the main load caused by brute-force attacks, analyzes login attempts, and blocks unwanted visitors. It provides other service functions as well."
+msgstr "應用程式負責抵禦由暴力密碼破解攻擊造成的主要負載、分析登入嘗試操作及封鎖不受歡迎的訪客，並提供其他服務功能。"
+
+#: views/tab-settings.php:473
+msgid "General Settings"
+msgstr "一般設定"
+
+#: core/LimitLoginAttempts.php:1837 core/LimitLoginAttempts.php:1910
+msgid "Settings saved."
+msgstr "設定已儲存。"
+
+#: core/LimitLoginAttempts.php:2070
+msgid "Leave a review"
+msgstr "撰寫評論"
+
+#: core/LimitLoginAttempts.php:2069
+msgid "Maybe later"
+msgstr "稍後再說"
+
+#: core/LimitLoginAttempts.php:2068
+msgid "Don't show again"
+msgstr "不再顯示這項訊息"
+
+#: core/LimitLoginAttempts.php:2065
+msgid "We would really like to hear your feedback about the plugin! Please take a couple minutes to write a few words <a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">here</a>. Thank you!"
+msgstr "我們非常願意傾聽使用者的外掛使用意見回覆，請前往<a href=\"https://wordpress.org/support/plugin/limit-login-attempts-reloaded/reviews/#new-post\" target=\"_blank\">外掛評論頁面</a>用些許時間撰寫意見，感謝。"
+
+#: core/LimitLoginAttempts.php:2064
+msgid "A <strong>crazy idea</strong> we wanted to share! What if we put an image from YOU on the <a href=\"https://wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\">LLAR page</a>?! (<a href=\"https://wordpress.org/plugins/hello-dolly/\" target=\"_blank\">example</a>) A drawing made by you or your child would cheer people up! Send us your drawing by <a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">email</a> and we like it, we'll add it in the next release. Let's have some fun!"
+msgstr "開發團隊在此分享一個<strong>大膽的想法</strong>！我們想將你或你的子女的畫作放在<a href=\"https://tw.wordpress.org/plugins/limit-login-attempts-reloaded/\" target=\"_blank\">這個外掛</a>的說明頁面 (<a href=\"https://tw.wordpress.org/plugins/hello-dolly/\" target=\"_blank\">範例</a>)，藉以振奮人心！請將畫作以電子郵件寄送至<a href=\"mailto:wpchef.me@gmail.com\" target=\"_blank\">這個電子郵件地址</a>，如果錄取的話，我們會在下一個發佈版本中使用。大家一起參加活動吧。"
+
+#: core/LimitLoginAttempts.php:2063
+msgid "Hey <strong>Limit Login Attempts Reloaded</strong> user!"
+msgstr "你好，<strong>Limit Login Attempts Reloaded</strong> 的使用者。"
+
+#: views/tab-debug.php:65
+msgid "Copy the contents of the window and provide to support."
+msgstr "進行技術支援時，請複製上方區域的內容並提供這些資訊。"
+
+#: core/LimitLoginAttempts.php:733 views/options-page.php:151
+msgid "Debug"
+msgstr "偵錯"
+
+#: core/LimitLoginAttempts.php:344 core/LimitLoginAttempts.php:717
+#: views/options-page.php:133
+msgid "Settings"
+msgstr "設定"
+
+#: views/tab-debug.php:58
+msgid "Debug Info"
+msgstr "偵錯資訊"
+
+#: views/tab-settings.php:240
+msgid "Specify the origins you trust in order of priority, separated by commas. We strongly recommend that you <b>do not</b> use anything other than REMOTE_ADDR since other origins can be easily faked. Examples: HTTP_X_FORWARDED_FOR, HTTP_CF_CONNECTING_IP, HTTP_X_SUCURI_CLIENTIP"
+msgstr "依據優先順序輸入受信任的 IP 位址來源，並以逗號分隔多個來源。由於其他來源可輕易變造，強烈建議<strong>不要</strong>使用 <code>REMOTE_ADDR</code> 之外的來源。可用來源參數: <code>HTTP_X_FORWARDED_FOR</code>、<code>HTTP_CF_CONNECTING_IP</code> 及 <code>HTTP_X_SUCURI_CLIENTIP</code>"
+
+#: views/tab-settings.php:225
+msgid "Trusted IP Origins"
+msgstr "受信任的 IP 地址來源"
+
+#: views/tab-settings.php:586
+msgid "after"
+msgstr "(在"
+
+#: views/tab-settings.php:559 views/tab-settings.php:583
+msgid "Email to"
+msgstr "傳送電子郵件至"
+
+#: core/LimitLoginAttempts.php:1545
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>錯誤:</strong> 不正確的電子郵件地址或密碼。"
+
+#: views/tab-settings.php:514
+msgid "GDPR compliance"
+msgstr "GDPR 合規性"
+
+#: views/tab-logs-local.php:93 views/tab-logs-local.php:116
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "每行一個 IP 位址或 IP 位址範圍 (例如 1.2.3.4-5.6.7.8)"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: limit-login-attempts-reloaded.php core/LimitLoginAttempts.php:169
+msgid "Limit Login Attempts Reloaded"
+msgstr "Limit Login Attempts Reloaded"
+
+#: views/app-widgets/event-log.php:39 views/tab-logs-local.php:220
+msgid "Gateway"
+msgstr "登入方式"
+
+#: views/tab-logs-local.php:219
+msgid "Tried to log in as"
+msgstr "嘗試登入的使用者名稱"
+
+#: views/tab-logs-local.php:218
+msgctxt "Internet address"
+msgid "IP"
+msgstr "IP 位址"
+
+#: views/tab-logs-local.php:217
+msgid "Date"
+msgstr "日期"
+
+#: views/tab-logs-local.php:202
+msgid "Clear Log"
+msgstr "清除登入鎖定記錄"
+
+#: views/tab-logs-local.php:101 views/tab-logs-local.php:124
+msgid "One Username per line"
+msgstr "每行一個使用者名稱"
+
+#: views/tab-settings.php:589
+msgid "lockouts"
+msgstr "次登入鎖定之後便傳送)"
+
+#: views/tab-logs-local.php:194
+msgid "Lockout log"
+msgstr "登入鎖定記錄"
+
+#: views/tab-settings.php:571
+msgid "Notify on lockout"
+msgstr "登入鎖定通知"
+
+#: views/tab-settings.php:203
+msgid "hours until retries are reset"
+msgstr "個小時後自動重設登入嘗試次數"
+
+#: views/tab-settings.php:190
+msgid "hours"
+msgstr "個小時"
+
+#: views/tab-settings.php:186
+msgid "lockouts increase lockout time to"
+msgstr "次登入鎖定發生後，將登入鎖定時間延長至"
+
+#: views/tab-settings.php:174
+msgid "minutes lockout"
+msgstr "分鐘的每次登入鎖定時間"
+
+#: views/tab-settings.php:161
+msgid "allowed retries"
+msgstr "次登入嘗試後予以鎖定"
+
+#: views/tab-settings.php:147
+msgid "Lockout"
+msgstr "登入鎖定條件"
+
+#: views/tab-settings.php:490
+msgid "Use global settings"
+msgstr "使用全域設定"
+
+#: views/tab-settings.php:485
+msgid "If disabled, the global settings will be forcibly applied to the entire network."
+msgstr "停用這項設定後，整個多站網路中的全部網站便會套用全域設定。"
+
+#: views/tab-settings.php:484
+msgid "Let network sites use their own settings"
+msgstr "讓多站網路中的個別網站使用獨立設定"
+
+#: views/tab-logs-local.php:71
+msgid "%d IP is currently blocked from trying to log in"
+msgstr "目前封鎖了 %d 個嘗試登入的 IP 位址"
+
+#: views/tab-logs-local.php:68
+msgid "Restore Lockouts"
+msgstr "解除登入鎖定"
+
+#: views/tab-logs-local.php:64
+msgid "Active lockouts"
+msgstr "目前鎖定目標"
+
+#: views/tab-logs-local.php:57
+msgid "No lockouts yet"
+msgstr "尚未發生需要進行登入鎖定的狀況"
+
+#: views/tab-logs-local.php:53
+msgid "%d lockout since last reset"
+msgid_plural "%d lockouts since last reset"
+msgstr[0] "從最後一次重設開始計算，發生了 %d 次登入鎖定"
+
+#: views/tab-logs-local.php:50
+msgid "Reset Counter"
+msgstr "重設計數器"
+
+#: views/tab-logs-local.php:45
+msgid "Total lockouts"
+msgstr "登入鎖定次數總計"
+
+#: views/tab-logs-local.php:35
+msgid "Statistics"
+msgstr "統計資料"
+
+#: core/LimitLoginAttempts.php:1765
+msgid "Cleared current lockouts"
+msgstr "清除目前的登入鎖定資料"
+
+#: core/LimitLoginAttempts.php:1758
+msgid "Reset lockout count"
+msgstr "重設登入鎖定計數"
+
+#: core/LimitLoginAttempts.php:1751
+msgid "Cleared IP log"
+msgstr "清除 IP 位址記錄"
+
+#: core/LimitLoginAttempts.php:1564
+msgid "WC Error"
+msgstr "WooCommerce 錯誤"
+
+#: core/LimitLoginAttempts.php:1548
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>錯誤:</strong> 不正確的使用者名稱或密碼。"
+
+#: core/LimitLoginAttempts.php:511 core/LimitLoginAttempts.php:1032
+#: core/LimitLoginAttempts.php:1511
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "請於 %d 分鐘後再試。"
+
+#: core/LimitLoginAttempts.php:509 core/LimitLoginAttempts.php:1030
+#: core/LimitLoginAttempts.php:1508
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "請於 %d 小時後再試。"
+
+#: core/LimitLoginAttempts.php:1499
+msgid "Please try again later."
+msgstr "請稍後再試。"
+
+#: core/LimitLoginAttempts.php:502 core/LimitLoginAttempts.php:1023
+#: core/LimitLoginAttempts.php:1491
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>錯誤:</strong> 過多的登入嘗試失敗次數。"
+
+#: core/LimitLoginAttempts.php:1223
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d 分鐘"
+
+#: core/LimitLoginAttempts.php:1216
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d 小時"
+
+#: core/Ajax.php:991
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "尚餘 <strong>%d</strong> 次嘗試機會。"
