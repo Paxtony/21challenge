@@ -260,3 +260,30 @@ function get_post_list($request)
 	// 返回格式化数据
 	return new WP_REST_Response($response, 200);
 }
+
+
+
+add_action('cmb2_admin_init', 'post_basic_fields');
+function post_basic_fields()
+{
+	/**
+	 * Sample metabox to demonstrate each field type included
+	 */
+	$cmb_demo = new_cmb2_box(array(
+		'id' => 'basic_fields',
+		'title' => esc_html__('Basic Fields', 'cmb2'),
+		'object_types' => array('post'), // Post type
+	));
+	$cmb_demo->add_field(array(
+		'name' => esc_html__('Keywords', 'cmb2'),
+		'desc' => esc_html__('Keywords', 'cmb2'),
+		'id'   => 'content_keywords',
+		'type' => 'text',
+	));
+	$cmb_demo->add_field(array(
+		'name' => esc_html__('Content Head Image', 'cmb2'),
+		'desc' => esc_html__('Upload an image or enter a URL.', 'cmb2'),
+		'id'   => 'content_image',
+		'type' => 'file',
+	));
+}

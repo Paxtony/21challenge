@@ -35,5 +35,6 @@
   * [Day15 - Wordpress｜魔改srcset](./Day15/index.md)
   * [Day16 - Wordpress｜polylang](./Day16/index.md)
   * [Day17 - Wordpress｜安全性优化](./Day17/index.md)
+  * [Day18 - Wordpress｜添加文章自定义字段](./Day18/index.md)
   
   
