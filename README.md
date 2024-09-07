@@ -34,7 +34,9 @@
   * [Day16 - Wordpress｜polylang](./Day16/index.md)
   * [Day17 - Wordpress｜安全性优化](./Day17/index.md)
   * [Day18 - Wordpress｜添加文章自定义字段](./Day18/index.md)
-  * [Day19 - Wordpress｜](./Day19/index.md)
+
+#### 实践
+  * [Day19 - PHP实现2048小游戏](./Day19/index.md)
   * [Day20 - Wordpress｜](./Day20/index.md)
   * [Day21 - Wordpress｜](./Day21/index.md)
 

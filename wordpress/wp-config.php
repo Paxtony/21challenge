@@ -101,3 +101,6 @@ require_once ABSPATH . 'wp-settings.php';
 /* Add any custom values between this line and the "stop editing" line. */
 define('WP_HOME', 'http://localhost:8080');
 define('WP_SITEURL', 'http://localhost:8080');
+
+
+define('WP_ALLOW_MULTISITE', true);
