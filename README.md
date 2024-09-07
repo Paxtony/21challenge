@@ -37,8 +37,8 @@
 
 #### 实践
   * [Day19 - PHP实现2048小游戏](./Day19/index.md)
-  * [Day20 - Wordpress｜](./Day20/index.md)
-  * [Day21 - Wordpress｜](./Day21/index.md)
+  * [Day20 - ](./Day20/index.md)
+  * [Day21 - ](./Day21/index.md)
 
 
 #### 总结
