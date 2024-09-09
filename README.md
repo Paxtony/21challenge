@@ -38,7 +38,7 @@
 #### 实践
   * [Day19 - PHP实现2048小游戏](./Day19/index.md)
   * [Day20 - PHP 实现2048小游戏-优化](./Day20/index.md)
-  * [Day21 - ](./Day21/index.md)
+  * [Day21 - Wordpress｜2048小游戏插件集成](./Day21/index.md)
 
 
 #### 总结
