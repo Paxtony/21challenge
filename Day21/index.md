@@ -9,7 +9,7 @@
 3. 修改原有请求的地址，通过```plugin_dir_url(__FILE__)```获取地址
 ```js
 const response = await fetch('api.php')
-const response = await fetch('<?php echo plugin_dir_url(__FILE__); ?>api.php');
+const response = await fetch('<?php echo plugin_dir_url(__FILE__); ?>api.vphp');
 ```
 4. 通过添加```add_shortcode```注册一个短代码 [game_2048]，用于将游戏嵌入页面。
 ```php
